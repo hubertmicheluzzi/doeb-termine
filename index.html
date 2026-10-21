@@ -1,0 +1,187 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DOEB TT-Termine</title>
+<style>
+  :root{
+    --bg:#f4f4f2; --card-border:rgba(0,0,0,.08); --text:#1a1a1a; --sub:#555;
+    --upcoming-bg:#fdf6b2; --past-bg:#e9e9e7;
+    --win:#1d8a3f; --loss:#c0392b; --draw:#b8860b;
+    --w1:#1c3f7c; --w2:#2f6fb0; --v1:#6b4a1f; --v2:#d98a1f; --cupc:#16a394; --cupsenb:#6b3fa0;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; padding:24px 16px 60px; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  h1{font-size:1.4rem; margin:0 0 4px;}
+  .subtitle{color:var(--sub); font-size:.85rem; margin:0 0 24px;}
+  .section{ border-radius:14px; padding:18px 18px 22px; margin-bottom:28px; }
+  .section.upcoming{background:var(--upcoming-bg);}
+  .section.past{background:var(--past-bg);}
+  .section h2{ font-size:1.05rem; margin:0 0 16px; display:flex; align-items:center; gap:8px; }
+  .month-group{margin-bottom:18px;}
+  .month-label{
+    font-size:.72rem; font-weight:700; letter-spacing:.06em; color:var(--sub);
+    text-transform:uppercase; border-bottom:1px solid rgba(0,0,0,.15);
+    padding-bottom:4px; margin-bottom:10px;
+  }
+  .cards{ display:grid; grid-template-columns:repeat(auto-fill, minmax(190px,1fr)); gap:10px; }
+  .card{
+    border-radius:10px; padding:10px 12px; color:#fff; box-shadow:0 1px 3px rgba(0,0,0,.15);
+    display:flex; flex-direction:column; gap:4px; min-height:84px;
+  }
+  .card .team-row{display:flex; justify-content:space-between; align-items:baseline; gap:6px;}
+  .card .team{font-weight:700; font-size:.78rem; opacity:.85;}
+  .card .gegner{font-weight:700; font-size:.98rem;}
+  .card .spieler{font-size:.76rem; opacity:.92; font-weight:600;}
+  .card .result{font-size:1.3rem; font-weight:800; margin:2px 0;}
+  .card .meta{font-size:.74rem; opacity:.85; margin-top:auto;}
+  .win{color:#b9f6c6;}
+  .loss{color:#ffc9bf;}
+  .draw{color:#ffe9a8;}
+  .team-w1{background:var(--w1);}
+  .team-w2{background:var(--w2);}
+  .team-v1{background:var(--v1);}
+  .team-v2{background:var(--v2);}
+  .team-cupc{background:var(--cupc);}
+  .team-cupsenb{background:var(--cupsenb);}
+  .legend{display:flex; flex-wrap:wrap; gap:10px; margin-bottom:24px; font-size:.72rem; color:var(--sub);}
+  .legend span{display:inline-flex; align-items:center; gap:5px;}
+  .legend i{width:10px; height:10px; border-radius:3px; display:inline-block;}
+  footer{font-size:.7rem; color:var(--sub); margin-top:30px; text-align:center;}
+  .fehler{background:#f8d7da; color:#721c24; border-radius:10px; padding:14px 16px; font-size:.85rem; margin-bottom:20px;}
+  @media (max-width:480px){
+    .cards{grid-template-columns:1fr 1fr;}
+    h1{font-size:1.2rem;}
+  }
+</style>
+</head>
+<body>
+
+<h1>DOEB TT-Termine</h1>
+<p class="subtitle" id="subtitle">WTTV W1, W2 &middot; V&Ouml;B V1, V2 &middot; WTTV-Cup C &amp; Senioren B &middot; wird laufen aktualisiert</p>
+
+<div class="legend" id="legend"></div>
+<div id="fehlerbox"></div>
+
+<div class="section upcoming" id="upcoming-section">
+  <h2>📅 Kommende Spiele</h2>
+  <div id="upcoming-groups"></div>
+</div>
+
+<div class="section past" id="past-section">
+  <h2>🏓 Vergangene Spiele</h2>
+  <div id="past-groups"></div>
+</div>
+
+<footer>DOEB TT-Termine &middot; Daten direkt von oettv.xttv.at / voeb.xttv.at &middot; Quelle: <a href="https://github.com/hubertmicheluzzi/doeb-termine">doeb-termine</a></footer>
+
+<script>
+const MONATE = ["Januar","Februar","März","April","Mai","Juni","Juli","August","September","Oktober","November","Dezember"];
+
+function fmtDatum(iso){
+  if(!iso) return "?";
+  const d = new Date(iso + "T00:00:00");
+  return d.getDate() + "." + (d.getMonth()+1) + ".";
+}
+function monatKey(iso){ return (iso || "9999-99").slice(0,7); }
+function monatLabel(iso){
+  const d = new Date(iso + "T00:00:00");
+  return MONATE[d.getMonth()] + " " + d.getFullYear();
+}
+
+function renderCard(m, teams){
+  const t = teams[m.team];
+  let resultHtml = "";
+  let metaExtra = "";
+  if(m.status === "past"){
+    const eig = m.punkteEigen, geg = m.punkteGegner;
+    if(eig == null || geg == null){
+      resultHtml = `<div class="result">?</div>`;
+    } else {
+      const cls = eig > geg ? "win" : (eig < geg ? "loss" : "draw");
+      resultHtml = `<div class="result ${cls}">${eig} : ${geg}</div>`;
+    }
+  } else {
+    resultHtml = m.spieler ? `<div class="spieler">${m.spieler}</div>` : "";
+    if(m.vorlaeufig) metaExtra += " &middot; vorläufig";
+    if(!m.datumGenau && !m.vorlaeufig) metaExtra += " &middot; Woche";
+  }
+  if(m.hinweis) metaExtra += ` &middot; ${m.hinweis}`;
+  const zeit = m.zeit ? ` ${m.zeit}` : "";
+  return `
+    <div class="card ${t ? t.cls : ''}">
+      <div class="team-row">
+        <span class="team">${t ? t.label : m.team}</span>
+      </div>
+      <div class="gegner">${m.gegner || "?"}</div>
+      ${resultHtml}
+      <div class="meta">${fmtDatum(m.datum)}${zeit} (${m.ha || "?"}) &middot; ${m.runde != null ? m.runde + ".R" : ""}${metaExtra}</div>
+    </div>`;
+}
+
+function renderSection(containerId, list, order, teams){
+  const groups = {};
+  list.forEach(m => {
+    const k = monatKey(m.datum);
+    (groups[k] = groups[k] || []).push(m);
+  });
+  const keys = Object.keys(groups).sort((a,b)=> order === "asc" ? a.localeCompare(b) : b.localeCompare(a));
+  const el = document.getElementById(containerId);
+  el.innerHTML = keys.map(k => {
+    const items = groups[k].sort((a,b)=> {
+      const da = a.datum || "", db = b.datum || "";
+      return order === "asc" ? da.localeCompare(db) : db.localeCompare(da);
+    });
+    return `
+      <div class="month-group">
+        <div class="month-label">${k === "9999-99" ? "ohne Termin" : monatLabel(k)}</div>
+        <div class="cards">${items.map(m => renderCard(m, teams)).join("")}</div>
+      </div>`;
+  }).join("");
+}
+
+function renderLegend(teams){
+  const el = document.getElementById("legend");
+  el.innerHTML = Object.values(teams).map(t =>
+    `<span><i style="background:var(--${t.cls.replace('team-','')})"></i>${t.label} &ndash; ${t.liga}</span>`
+  ).join("");
+}
+
+async function main(){
+  let data;
+  try{
+    const res = await fetch("data/termine.json", {cache:"no-store"});
+    if(!res.ok) throw new Error("HTTP " + res.status);
+    data = await res.json();
+  } catch(e){
+    document.getElementById("fehlerbox").innerHTML =
+      `<div class="fehler">Konnte data/termine.json nicht laden (${e.message}). Läuft das Github-Actions-Update bereits?</div>`;
+    return;
+  }
+
+  const teams = {};
+  const alleSpiele = [];
+  Object.entries(data.bewerbe || {}).forEach(([id, b]) => {
+    teams[id] = { label: b.label, cls: "team-" + (b.farbe || id), liga: b.liga };
+    (b.spiele || []).forEach(s => alleSpiele.push({ ...s, team: id }));
+  });
+
+  renderLegend(teams);
+  renderSection("upcoming-groups", alleSpiele.filter(m=>m.status==="upcoming"), "asc", teams);
+  renderSection("past-groups", alleSpiele.filter(m=>m.status==="past"), "desc", teams);
+
+  if(data.stand){
+    const d = new Date(data.stand);
+    document.getElementById("subtitle").textContent =
+      "WTTV W1, W2 · VÖB V1, V2 · WTTV-Cup C & Senioren B · Stand: " + d.toLocaleString("de-AT", {dateStyle:"medium", timeStyle:"short"});
+  }
+}
+
+main();
+</script>
+</body>
+</html>
