@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-23T09:05:35Z",
+ "stand": "2026-10-23T20:30:40Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -569,12 +569,12 @@
      "runde": 6,
      "ha": "H",
      "gegner": "POST4",
-     "status": "upcoming",
-     "punkteEigen": null,
-     "punkteGegner": null,
-     "datum": "2026-10-22",
-     "datumGenau": true,
-     "zeit": "18:00",
+     "status": "past",
+     "punkteEigen": 2,
+     "punkteGegner": 6,
+     "datum": "2026-10-19",
+     "datumGenau": false,
+     "zeit": null,
      "hinweis": null,
      "spieler": "Thom, Adi, Thierry"
     },
