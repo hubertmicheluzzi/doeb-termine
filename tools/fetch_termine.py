@@ -24,13 +24,37 @@ WOCHENTAGE = r"(Mo|Di|Mi|Do|Fr|Sa|So)"
 DATUM_RE = re.compile(WOCHENTAGE + r"\.?\s+(\d{1,2})\.(\d{1,2})\.(\d{4})(?:\s+(\d{1,2}):(\d{2}))?")
 
 
+def dekodieren(roh, header_charset):
+    """XTTV liefert die Seiten nicht immer in UTF-8 (oft windows-1252/
+    ISO-8859-1). Reihenfolge: Zeichensatz aus dem HTTP-Header, dann aus dem
+    <meta>-Tag, dann UTF-8 streng, zuletzt windows-1252 (kann alles lesen).
+    Geschuetzte Leerzeichen (NBSP) werden zu normalen Leerzeichen."""
+    kandidaten = []
+    if header_charset:
+        kandidaten.append(header_charset)
+    m = re.search(rb'charset=["\']?([A-Za-z0-9_\-]+)', roh[:4000])
+    if m:
+        kandidaten.append(m.group(1).decode("ascii", "ignore"))
+    kandidaten += ["utf-8", "windows-1252"]
+    for cs in kandidaten:
+        try:
+            text = roh.decode(cs)
+            break
+        except (LookupError, UnicodeDecodeError):
+            continue
+    else:
+        text = roh.decode("windows-1252", errors="replace")
+    return text.replace("\u00a0", " ")
+
+
 def holen(url):
     req = urllib.request.Request(url, headers={"User-Agent": "doeb-termine/1 (github actions)"})
     last = None
     for versuch in range(3):
         try:
             with urllib.request.urlopen(req, timeout=30) as r:
-                return r.read().decode("utf-8", errors="replace")
+                roh = r.read()
+                return dekodieren(roh, r.headers.get_content_charset())
         except Exception as e:
             last = type(e).__name__ + (": HTTP %s" % e.code if hasattr(e, "code") else "")
             time.sleep(3 * (versuch + 1))
