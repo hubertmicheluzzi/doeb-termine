@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-23T20:30:40Z",
+ "stand": "2026-10-24T09:37:12Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -163,12 +163,12 @@
      "runde": 4,
      "ha": "H",
      "gegner": "SKFL21",
-     "status": "upcoming",
-     "punkteEigen": null,
-     "punkteGegner": null,
-     "datum": "2026-10-23",
-     "datumGenau": true,
-     "zeit": "19:00",
+     "status": "past",
+     "punkteEigen": 2,
+     "punkteGegner": 6,
+     "datum": "2026-10-19",
+     "datumGenau": false,
+     "zeit": null,
      "hinweis": null,
      "spieler": "Thom, Adi, Thierry"
     },
