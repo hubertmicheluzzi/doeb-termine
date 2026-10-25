@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-24T19:33:31Z",
+ "stand": "2026-10-25T19:44:33Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -875,7 +875,7 @@
      "status": "upcoming",
      "punkteEigen": null,
      "punkteGegner": null,
-     "datum": "2026-11-18",
+     "datum": "2026-11-20",
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
