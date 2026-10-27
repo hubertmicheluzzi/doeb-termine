@@ -1,0 +1,153 @@
+<!DOCTYPE html>
+<html lang="de">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>DOEB Spieler-Bilanz</title>
+<style>
+  :root{
+    --bg:#f4f4f2; --card:#fff; --text:#1a1a1a; --sub:#555; --line:rgba(0,0,0,.08);
+    --win:#1d8a3f; --loss:#c0392b;
+    --w1:#1c3f7c; --w2:#2f6fb0; --v1:#6b4a1f; --v2:#d98a1f; --cupc:#16a394; --cupsenb:#6b3fa0;
+  }
+  *{box-sizing:border-box;}
+  body{
+    margin:0; padding:24px 16px 60px; background:var(--bg); color:var(--text);
+    font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  }
+  h1{font-size:1.4rem; margin:0 0 4px;}
+  .subtitle{color:var(--sub); font-size:.85rem; margin:0 0 18px;}
+  .subtitle a{color:var(--sub);}
+  .sortbar{display:flex; flex-wrap:wrap; gap:6px; margin-bottom:16px; font-size:.78rem; color:var(--sub); align-items:center;}
+  .sortbar button{border:1px solid rgba(0,0,0,.15); background:#fff; border-radius:999px; padding:4px 10px; font-size:.78rem; cursor:pointer; color:var(--text);}
+  .sortbar button[aria-pressed="true"]{background:#1a1a1a; color:#fff; border-color:#1a1a1a;}
+  .liste{display:flex; flex-direction:column; gap:8px; max-width:760px;}
+  .spieler{background:var(--card); border-radius:12px; box-shadow:0 1px 3px rgba(0,0,0,.08);}
+  .kopf{display:grid; grid-template-columns:1fr auto; gap:6px 12px; padding:12px 14px; cursor:pointer; align-items:center;}
+  .name{font-weight:800; font-size:1.02rem;}
+  .chips{display:flex; flex-wrap:wrap; gap:4px; grid-column:1 / -1;}
+  .chip{color:#fff; border-radius:6px; padding:1px 7px; font-size:.68rem; font-weight:700;}
+  .zahlen{display:flex; gap:14px; font-size:.82rem; text-align:right;}
+  .zahlen div{display:flex; flex-direction:column; align-items:flex-end;}
+  .zahlen b{font-size:1rem;}
+  .zahlen span{font-size:.66rem; color:var(--sub); text-transform:uppercase; letter-spacing:.04em;}
+  .balken{grid-column:1 / -1; height:5px; border-radius:3px; background:#f0c9c3; overflow:hidden;}
+  .balken i{display:block; height:100%; background:var(--win);}
+  .details{display:none; border-top:1px solid var(--line); padding:6px 14px 12px;}
+  .spieler.offen .details{display:block;}
+  .spiel{display:grid; grid-template-columns:52px 64px 1fr auto; gap:8px; padding:6px 0; border-bottom:1px solid var(--line); font-size:.8rem; align-items:center;}
+  .spiel:last-child{border-bottom:none;}
+  .spiel .dat{color:var(--sub);}
+  .spiel .geg small{color:var(--sub); display:block; font-size:.7rem;}
+  .erg{font-weight:800;}
+  .erg.s{color:var(--win);} .erg.n{color:var(--loss);}
+  .team-w1{background:var(--w1);} .team-w2{background:var(--w2);} .team-v1{background:var(--v1);}
+  .team-v2{background:var(--v2);} .team-cupc{background:var(--cupc);} .team-cupsenb{background:var(--cupsenb);}
+  footer{font-size:.7rem; color:var(--sub); margin-top:30px; text-align:center;}
+  .fehler{background:#f8d7da; color:#721c24; border-radius:10px; padding:14px 16px; font-size:.85rem; margin-bottom:20px;}
+  @media (max-width:480px){
+    h1{font-size:1.2rem;}
+    .zahlen{gap:10px;}
+    .spiel{grid-template-columns:44px 54px 1fr auto; font-size:.76rem;}
+  }
+</style>
+</head>
+<body>
+
+<h1>DOEB Spieler-Bilanz</h1>
+<p class="subtitle" id="subtitle"><a href="index.html">&larr; Termine</a> &middot; Einzel und Doppel aller Mannschaften</p>
+
+<div class="sortbar" id="sortbar">Sortieren:
+  <button type="button" data-sort="siege" aria-pressed="true">Siege</button>
+  <button type="button" data-sort="quote">Siegquote</button>
+  <button type="button" data-sort="spiele">Spiele</button>
+  <button type="button" data-sort="name">Name</button>
+</div>
+<div id="fehlerbox"></div>
+<div class="liste" id="liste"></div>
+
+<footer>Daten: XTTV-Spielberichte, über Nextcloud &middot; Gegner nur mit Vornamen</footer>
+
+<script>
+const esc = s => String(s ?? "").replace(/[&<>"]/g, c => ({"&":"&amp;","<":"&lt;",">":"&gt;",'"':"&quot;"}[c]));
+const fmtDatum = iso => { const d = new Date(iso + "T00:00:00"); return d.getDate() + "." + (d.getMonth()+1) + "."; };
+let DATA = null, SORT = "siege";
+
+function kennzahlen(e){
+  const s = e.einzel[0] + e.doppel[0], n = e.einzel[1] + e.doppel[1];
+  return { s, n, spiele: s + n, quote: (s + n) ? s / (s + n) : 0 };
+}
+
+function render(){
+  const bew = DATA.bewerbe || {};
+  const liste = [...DATA.spieler];
+  liste.sort((a, b) => {
+    const ka = kennzahlen(a), kb = kennzahlen(b);
+    if (SORT === "name") return a.name.localeCompare(b.name, "de");
+    if (SORT === "quote") return kb.quote - ka.quote || kb.spiele - ka.spiele;
+    if (SORT === "spiele") return kb.spiele - ka.spiele || kb.s - ka.s;
+    return kb.s - ka.s || ka.n - kb.n;
+  });
+  document.getElementById("liste").innerHTML = liste.map(e => {
+    const k = kennzahlen(e);
+    const chips = Object.entries(e.teams).map(([b, n]) =>
+      `<span class="chip team-${esc(b)}">${esc((bew[b]||{}).label || b)} &times;${n}</span>`).join("");
+    const spiele = e.spiele.map(x => `
+      <div class="spiel">
+        <span class="dat">${fmtDatum(x.datum)}</span>
+        <span><span class="chip team-${esc(x.bewerb)}">${esc(x.team)}</span></span>
+        <span class="geg">${x.art === "Doppel" ? "Doppel" + (x.partner ? " mit " + esc(x.partner) : "") + " gg. " : "gg. "}${esc(x.gegner)}
+          <small>${esc(x.gegnerTeam || "")} &middot; Runde ${esc(x.runde)} &middot; Spiel ${esc(x.nr)}</small></span>
+        <span class="erg ${x.sieg ? "s" : "n"}">${esc(x.saetze)}</span>
+      </div>`).join("");
+    return `
+      <div class="spieler">
+        <div class="kopf" role="button" tabindex="0" aria-expanded="false">
+          <div class="name">${esc(e.name)}</div>
+          <div class="zahlen">
+            <div><b>${e.einzel[0]}:${e.einzel[1]}</b><span>Einzel</span></div>
+            <div><b>${e.doppel[0]}:${e.doppel[1]}</b><span>Doppel</span></div>
+            <div><b>${e.saetze[0]}:${e.saetze[1]}</b><span>Sätze</span></div>
+          </div>
+          <div class="balken" title="${Math.round(k.quote*100)} % Siege"><i style="width:${Math.round(k.quote*100)}%"></i></div>
+          <div class="chips">${chips}</div>
+        </div>
+        <div class="details">${spiele}</div>
+      </div>`;
+  }).join("");
+  document.querySelectorAll(".kopf").forEach(kopf => {
+    const toggle = () => { const p = kopf.parentElement; p.classList.toggle("offen");
+      kopf.setAttribute("aria-expanded", p.classList.contains("offen")); };
+    kopf.addEventListener("click", toggle);
+    kopf.addEventListener("keydown", ev => { if (ev.key === "Enter" || ev.key === " ") { ev.preventDefault(); toggle(); } });
+  });
+}
+
+document.getElementById("sortbar").addEventListener("click", ev => {
+  const b = ev.target.closest("button"); if (!b) return;
+  SORT = b.dataset.sort;
+  document.querySelectorAll("#sortbar button").forEach(x => x.setAttribute("aria-pressed", String(x === b)));
+  render();
+});
+
+(async () => {
+  try {
+    const res = await fetch("data/spieler.json", {cache: "no-store"});
+    if (!res.ok) throw new Error("HTTP " + res.status);
+    DATA = await res.json();
+  } catch (e) {
+    document.getElementById("fehlerbox").innerHTML =
+      `<div class="fehler">Konnte data/spieler.json nicht laden (${esc(e.message)}).</div>`;
+    return;
+  }
+  if (DATA.stand) {
+    const d = new Date(DATA.stand);
+    document.getElementById("subtitle").innerHTML =
+      `<a href="index.html">&larr; Termine</a> &middot; Einzel und Doppel aller Mannschaften &middot; Stand: ` +
+      d.toLocaleString("de-AT", {dateStyle: "medium", timeStyle: "short"});
+  }
+  render();
+})();
+</script>
+</body>
+</html>
