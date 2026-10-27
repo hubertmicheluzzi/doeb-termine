@@ -1,0 +1,500 @@
+{
+ "format": "doeb-tabellen/1",
+ "stand": "2026-10-27T13:09:54Z",
+ "bewerbe": {
+  "v1": {
+   "label": "V1",
+   "farbe": "v1",
+   "liga": "VÖB, 1. Klasse B",
+   "stand": "2026-10-27",
+   "tabelle": [
+    {
+     "platz": 1,
+     "mannschaft": "BTTC 1",
+     "spiele": 6,
+     "siege": 5,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "34:10",
+     "punkte": 15,
+     "eigen": false
+    },
+    {
+     "platz": 2,
+     "mannschaft": "BRZ 2",
+     "spiele": 4,
+     "siege": 4,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "einzel": "24:9",
+     "punkte": 12,
+     "eigen": false
+    },
+    {
+     "platz": 3,
+     "mannschaft": "OWA 2",
+     "spiele": 5,
+     "siege": 4,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "28:20",
+     "punkte": 12,
+     "eigen": false
+    },
+    {
+     "platz": 4,
+     "mannschaft": "DÖB 1",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "einzel": "30:22",
+     "punkte": 10,
+     "eigen": true
+    },
+    {
+     "platz": 5,
+     "mannschaft": "WN 1",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "20:10",
+     "punkte": 9,
+     "eigen": false
+    },
+    {
+     "platz": 6,
+     "mannschaft": "BKA 1",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "15:17",
+     "punkte": 6,
+     "eigen": false
+    },
+    {
+     "platz": 7,
+     "mannschaft": "SKH 1",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "einzel": "17:26",
+     "punkte": 6,
+     "eigen": false
+    },
+    {
+     "platz": 8,
+     "mannschaft": "ORF 1",
+     "spiele": 5,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "einzel": "19:26",
+     "punkte": 4,
+     "eigen": false
+    },
+    {
+     "platz": 9,
+     "mannschaft": "WILI 4",
+     "spiele": 6,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 5,
+     "einzel": "18:34",
+     "punkte": 3,
+     "eigen": false
+    },
+    {
+     "platz": 10,
+     "mannschaft": "LAND 1",
+     "spiele": 5,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "einzel": "14:29",
+     "punkte": 3,
+     "eigen": false
+    },
+    {
+     "platz": 11,
+     "mannschaft": "FJB 2",
+     "spiele": 4,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "einzel": "9:25",
+     "punkte": 0,
+     "eigen": false
+    }
+   ]
+  },
+  "v2": {
+   "label": "V2",
+   "farbe": "v2",
+   "liga": "VÖB, 4. Klasse",
+   "stand": "2026-10-27",
+   "tabelle": [
+    {
+     "platz": 1,
+     "mannschaft": "LENZ 2",
+     "spiele": 6,
+     "siege": 6,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "einzel": "37:11",
+     "punkte": 18,
+     "eigen": false
+    },
+    {
+     "platz": 2,
+     "mannschaft": "ATTW 4",
+     "spiele": 7,
+     "siege": 4,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "einzel": "34:29",
+     "punkte": 13,
+     "eigen": false
+    },
+    {
+     "platz": 3,
+     "mannschaft": "KÖST 1",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "einzel": "31:22",
+     "punkte": 11,
+     "eigen": false
+    },
+    {
+     "platz": 4,
+     "mannschaft": "OLY 4",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "21:18",
+     "punkte": 9,
+     "eigen": false
+    },
+    {
+     "platz": 5,
+     "mannschaft": "BKA 3",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "23:20",
+     "punkte": 9,
+     "eigen": false
+    },
+    {
+     "platz": 6,
+     "mannschaft": "POST 4",
+     "spiele": 6,
+     "siege": 2,
+     "unentschieden": 2,
+     "niederlagen": 2,
+     "einzel": "28:28",
+     "punkte": 8,
+     "eigen": false
+    },
+    {
+     "platz": 7,
+     "mannschaft": "FSF 3",
+     "spiele": 6,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "einzel": "28:26",
+     "punkte": 7,
+     "eigen": false
+    },
+    {
+     "platz": 8,
+     "mannschaft": "ATTW 5",
+     "spiele": 7,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 4,
+     "einzel": "29:35",
+     "punkte": 7,
+     "eigen": false
+    },
+    {
+     "platz": 9,
+     "mannschaft": "KSVUW 3",
+     "spiele": 5,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "einzel": "18:26",
+     "punkte": 6,
+     "eigen": false
+    },
+    {
+     "platz": 10,
+     "mannschaft": "HG I 3",
+     "spiele": 6,
+     "siege": 1,
+     "unentschieden": 2,
+     "niederlagen": 3,
+     "einzel": "25:32",
+     "punkte": 5,
+     "eigen": false
+    },
+    {
+     "platz": 11,
+     "mannschaft": "DÖB 2",
+     "spiele": 5,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "einzel": "18:27",
+     "punkte": 4,
+     "eigen": true
+    },
+    {
+     "platz": 12,
+     "mannschaft": "LAND 2",
+     "spiele": 6,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 5,
+     "einzel": "16:34",
+     "punkte": 3,
+     "eigen": false
+    }
+   ]
+  },
+  "w1": {
+   "label": "W1",
+   "farbe": "w1",
+   "liga": "WTTV, 3. Klasse B",
+   "stand": "2026-10-27",
+   "tabelle": [
+    {
+     "platz": 1,
+     "mannschaft": "HAK2",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 0,
+     "einzel": "23:14",
+     "punkte": 7,
+     "eigen": false
+    },
+    {
+     "platz": 2,
+     "mannschaft": "SGWF8",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "einzel": "27:19",
+     "punkte": 7,
+     "eigen": false
+    },
+    {
+     "platz": 3,
+     "mannschaft": "SSH2",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "20:13",
+     "punkte": 6,
+     "eigen": false
+    },
+    {
+     "platz": 4,
+     "mannschaft": "NFS7",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "einzel": "20:14",
+     "punkte": 5,
+     "eigen": false
+    },
+    {
+     "platz": 5,
+     "mannschaft": "LSV6",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "18:19",
+     "punkte": 4,
+     "eigen": false
+    },
+    {
+     "platz": 6,
+     "mannschaft": "DOEB3",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "14:15",
+     "punkte": 4,
+     "eigen": true
+    },
+    {
+     "platz": 7,
+     "mannschaft": "LENZ4",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "16:19",
+     "punkte": 4,
+     "eigen": false
+    },
+    {
+     "platz": 8,
+     "mannschaft": "SGWF10",
+     "spiele": 5,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "einzel": "21:26",
+     "punkte": 3,
+     "eigen": false
+    },
+    {
+     "platz": 9,
+     "mannschaft": "KONT7",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "einzel": "14:22",
+     "punkte": 2,
+     "eigen": false
+    },
+    {
+     "platz": 10,
+     "mannschaft": "OLYM4",
+     "spiele": 4,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "einzel": "12:24",
+     "punkte": 0,
+     "eigen": false
+    }
+   ]
+  },
+  "w2": {
+   "label": "W2",
+   "farbe": "w2",
+   "liga": "WTTV, Gruppe VIb",
+   "stand": "2026-10-27",
+   "tabelle": [
+    {
+     "platz": 1,
+     "mannschaft": "NFS14",
+     "spiele": 4,
+     "siege": 4,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "einzel": "24:8",
+     "punkte": 8,
+     "eigen": false
+    },
+    {
+     "platz": 2,
+     "mannschaft": "TYR1",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "21:16",
+     "punkte": 6,
+     "eigen": false
+    },
+    {
+     "platz": 3,
+     "mannschaft": "SGPF13",
+     "spiele": 3,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "16:12",
+     "punkte": 4,
+     "eigen": false
+    },
+    {
+     "platz": 4,
+     "mannschaft": "SKFL21",
+     "spiele": 4,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "17:18",
+     "punkte": 4,
+     "eigen": false
+    },
+    {
+     "platz": 5,
+     "mannschaft": "LSV13",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "einzel": "18:18",
+     "punkte": 3,
+     "eigen": false
+    },
+    {
+     "platz": 6,
+     "mannschaft": "OLYM9",
+     "spiele": 3,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "einzel": "13:13",
+     "punkte": 3,
+     "eigen": false
+    },
+    {
+     "platz": 7,
+     "mannschaft": "GEB2",
+     "spiele": 3,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "einzel": "12:13",
+     "punkte": 3,
+     "eigen": false
+    },
+    {
+     "platz": 8,
+     "mannschaft": "DOEB6",
+     "spiele": 3,
+     "siege": 0,
+     "unentschieden": 1,
+     "niederlagen": 2,
+     "einzel": "9:17",
+     "punkte": 1,
+     "eigen": true
+    },
+    {
+     "platz": 9,
+     "mannschaft": "EDEN13",
+     "spiele": 4,
+     "siege": 0,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "einzel": "9:24",
+     "punkte": 0,
+     "eigen": false
+    }
+   ]
+  }
+ }
+}

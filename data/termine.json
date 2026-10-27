@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-26T10:47:02Z",
+ "stand": "2026-10-27T13:09:53Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -20,7 +20,66 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary"
+     "spieler": "Richi, Max, Bary",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Anton",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Alexander",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Georg",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Max / Richi",
+       "gegner": "Anton / Alexander",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Alexander",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Anton",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Georg",
+       "saetze": "2:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -34,7 +93,66 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary"
+     "spieler": "Richi, Max, Bary",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Aleksandar",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Darko",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Felix",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Max / Richi",
+       "gegner": "Felix / Darko",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Darko",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Aleksandar",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Felix",
+       "saetze": "1:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -48,7 +166,74 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary"
+     "spieler": "Richi, Max, Bary",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Florian",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Christian",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Andreas",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Richi / Max",
+       "gegner": "Florian / Christian",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Christian",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Florian",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Andreas",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Christian",
+       "saetze": "3:1",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -62,7 +247,66 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary"
+     "spieler": "Richi, Max, Bary",
+     "bestaetigt": false,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Noel",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Jeschurun",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Nico",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Max / Richi",
+       "gegner": "Nico / Jeschurun",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Noel",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Nico",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Jeschurun",
+       "saetze": "3:0",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -75,7 +319,8 @@
      "datum": "2026-11-06",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -88,7 +333,8 @@
      "datum": "2026-11-13",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -101,7 +347,8 @@
      "datum": "2026-11-27",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -114,7 +361,8 @@
      "datum": "2026-12-03",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -127,7 +375,8 @@
      "datum": "2026-12-11",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     }
    ]
   },
@@ -148,7 +397,74 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Adi, Thom, Leopold"
+     "spieler": "Adi, Thom, Leopold",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Leon",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Leopold",
+       "gegner": "Martin",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Lukas",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Thom / Adi",
+       "gegner": "Martin / Lukas",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Martin",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Leon",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Leopold",
+       "gegner": "Lukas",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Martin",
+       "saetze": "0:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -162,7 +478,90 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Thom, Adi, Leopold"
+     "spieler": "Thom, Adi, Leopold",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Brigitte",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Ulrike",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Leopold",
+       "gegner": "György",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Adi / Thom",
+       "gegner": "György / Brigitte",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Brigitte",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "György",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Leopold",
+       "gegner": "Ulrike",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "György",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Leopold",
+       "gegner": "Brigitte",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Ulrike",
+       "saetze": "3:2",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -176,7 +575,74 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Thom, Azi, Joh. I."
+     "spieler": "Thom, Azi, Joh. I.",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Brigitte",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Azi",
+       "gegner": "Karl",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Wilhelm",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Thom / Azi",
+       "gegner": "Karl / Wilhelm",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Karl",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Brigitte",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Azi",
+       "gegner": "Wilhelm",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Karl",
+       "saetze": "1:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -190,7 +656,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Thom, Azi, Maxime"
+     "spieler": "Thom, Azi, Maxime",
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -203,7 +670,8 @@
      "datum": "2026-11-13",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -216,7 +684,8 @@
      "datum": "2026-11-26",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -229,7 +698,8 @@
      "datum": "2026-12-04",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -242,7 +712,8 @@
      "datum": "2026-12-11",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     }
    ]
   },
@@ -263,7 +734,74 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Richi, Max"
+     "spieler": "Bary, Richi, Max",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Gerhard",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Adam",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Martin",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Richi / Max",
+       "gegner": "Adam / Martin",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Adam",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Gerhard",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Martin",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Adam",
+       "saetze": "0:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -277,7 +815,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Richi, Georg, HM"
+     "spieler": "Bary, Richi, Georg, HM",
+     "bestaetigt": true
     },
     {
      "durchgang": 1,
@@ -291,7 +830,90 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Georg, HM"
+     "spieler": "Bary, Georg, HM",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Arnold",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Martin",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Pedro",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "HM / Georg",
+       "gegner": "Martin / Pedro",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Martin",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Arnold",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Pedro",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Martin",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Pedro",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Arnold",
+       "saetze": "1:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -305,7 +927,74 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Georg, HM"
+     "spieler": "Bary, Georg, HM",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Ole",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Julien",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Timo",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Georg / HM",
+       "gegner": "Timo / Ole",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Julien",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Ole",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Timo",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Julien",
+       "saetze": "3:0",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -319,7 +1008,90 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Luke, Gidi"
+     "spieler": "Bary, Luke, Gidi",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Luke",
+       "gegner": "Mahmoud",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Gidi",
+       "gegner": "Mohsen",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Michael",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Luke / Gidi",
+       "gegner": "Mohsen / Michael",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Luke",
+       "gegner": "Mohsen",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Mahmoud",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Gidi",
+       "gegner": "Michael",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Mohsen",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Luke",
+       "gegner": "Michael",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "Gidi",
+       "gegner": "Mahmoud",
+       "saetze": "3:1",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -333,7 +1105,82 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Erik, HM"
+     "spieler": "Bary, Erik, HM",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Robert",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Sasa",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Erik",
+       "gegner": "Jan",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "HM / Erik",
+       "gegner": "Jan / Robert",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Sasa",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Erik",
+       "gegner": "Robert",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Jan",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Erik",
+       "gegner": "Sasa",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Jan",
+       "saetze": "3:1",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -347,7 +1194,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, HM"
+     "spieler": "Bary, HM",
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -360,7 +1208,8 @@
      "datum": "2026-11-19",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -373,7 +1222,8 @@
      "datum": "2026-11-23",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -386,7 +1236,8 @@
      "datum": "2026-12-10",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -399,7 +1250,8 @@
      "datum": "2027-01-14",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -412,7 +1264,8 @@
      "datum": "2027-01-18",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -425,7 +1278,8 @@
      "datum": "2027-01-28",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -438,7 +1292,8 @@
      "datum": "2027-02-11",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -451,7 +1306,8 @@
      "datum": "2027-02-15",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -464,7 +1320,8 @@
      "datum": "2027-03-04",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -477,7 +1334,8 @@
      "datum": "2027-03-18",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -490,7 +1348,8 @@
      "datum": "2027-04-08",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -503,7 +1362,8 @@
      "datum": "2027-04-15",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -516,7 +1376,8 @@
      "datum": "2027-04-28",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     }
    ]
   },
@@ -537,7 +1398,66 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Adi"
+     "spieler": "Joh. I., Cyril, Adi",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "György",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Ulrike",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Norbert",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Adi / Joh. I.",
+       "gegner": "György / Norbert",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "György",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Norbert",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Ulrike",
+       "saetze": "3:0",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -551,7 +1471,90 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Adi"
+     "spieler": "Joh. I., Cyril, Adi",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Paul",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Alois",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Kurt",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Joh. I. / Adi",
+       "gegner": "Alois / Paul",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Alois",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Paul",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Kurt",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Alois",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Kurt",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Paul",
+       "saetze": "1:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -565,7 +1568,90 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Fabi, Cyril, Adi"
+     "spieler": "Fabi, Cyril, Adi",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Panagiotis",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Fabi",
+       "gegner": "Johannes",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Friedrich",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Adi / Cyril",
+       "gegner": "Panagiotis / Johannes",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Fabi",
+       "gegner": "Panagiotis",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Friedrich",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Johannes",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Fabi",
+       "gegner": "Friedrich",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Panagiotis",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Johannes",
+       "saetze": "3:0",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -579,7 +1665,90 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Adi"
+     "spieler": "Joh. I., Cyril, Adi",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Massoud",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Manfred",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Reza",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Cyril / Joh. I.",
+       "gegner": "Manfred / Reza",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Massoud",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Reza",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Manfred",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Reza",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Massoud",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Manfred",
+       "saetze": "3:0",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -593,7 +1762,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": "PT",
-     "spieler": "Joh. I., Cyril, Adi"
+     "spieler": "Joh. I., Cyril, Adi",
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -607,7 +1777,74 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Thom"
+     "spieler": "Joh. I., Cyril, Thom",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Harald",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Christian",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Branko",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Cyril / Joh. I.",
+       "gegner": "Harald / Christian",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Christian",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Harald",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Branko",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Christian",
+       "saetze": "0:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -621,7 +1858,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi"
+     "spieler": "Adi",
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -635,7 +1873,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi"
+     "spieler": "Adi",
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -649,7 +1888,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi"
+     "spieler": "Adi",
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -662,7 +1902,8 @@
      "datum": "2026-11-26",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 1,
@@ -676,7 +1917,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi"
+     "spieler": "Adi",
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -689,7 +1931,8 @@
      "datum": "2027-01-14",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -702,7 +1945,8 @@
      "datum": "2027-01-21",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -715,7 +1959,8 @@
      "datum": "2027-01-28",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -728,7 +1973,8 @@
      "datum": "2027-02-11",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -741,7 +1987,8 @@
      "datum": "2027-02-15",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -754,7 +2001,8 @@
      "datum": "2027-03-02",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -767,7 +2015,8 @@
      "datum": "2027-03-11",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -780,7 +2029,8 @@
      "datum": "2027-03-18",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -793,7 +2043,8 @@
      "datum": "2027-04-08",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -806,7 +2057,8 @@
      "datum": "2027-04-12",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     },
     {
      "durchgang": 2,
@@ -819,7 +2071,8 @@
      "datum": "2027-04-29",
      "datumGenau": true,
      "zeit": "18:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     }
    ]
   },
@@ -840,7 +2093,50 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Luke, Carsten, Dani, HM"
+     "spieler": "Luke, Carsten, Dani, HM",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "1",
+       "art": "Einzel",
+       "spieler": "Carsten",
+       "gegner": "Michael",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "2",
+       "art": "Einzel",
+       "spieler": "Dani",
+       "gegner": "Alex",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "3",
+       "art": "Einzel",
+       "spieler": "Luke",
+       "gegner": "Marian",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "4",
+       "art": "Doppel",
+       "spieler": "Luke / HM",
+       "gegner": "Marian / Michael",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "5",
+       "art": "Einzel",
+       "spieler": "Dani",
+       "gegner": "Michael",
+       "saetze": "2:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -854,7 +2150,42 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Carsten, HM, Joh. I."
+     "spieler": "Carsten, HM, Joh. I.",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "1",
+       "art": "Einzel",
+       "spieler": "Carsten",
+       "gegner": "Eli",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "2",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Michael",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "3",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Karl",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "4",
+       "art": "Doppel",
+       "spieler": "HM / Joh. I.",
+       "gegner": "Karl / Eli",
+       "saetze": "3:1",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -867,7 +2198,8 @@
      "datum": "2026-11-18",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     }
    ]
   },
@@ -888,7 +2220,50 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "HM, Cyril"
+     "spieler": "HM, Cyril",
+     "bestaetigt": true,
+     "einzel": [
+      {
+       "nr": "D",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Andreas",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "E",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Andrea",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "B",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Andrea",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "C",
+       "art": "Doppel",
+       "spieler": "Cyril / HM",
+       "gegner": "Andrea / Andreas",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "A",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Andreas",
+       "saetze": "3:2",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -901,7 +2276,8 @@
      "datum": "2026-11-20",
      "datumGenau": true,
      "zeit": "19:00",
-     "hinweis": null
+     "hinweis": null,
+     "bestaetigt": false
     }
    ]
   }
