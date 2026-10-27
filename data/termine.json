@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-27T13:09:53Z",
+ "stand": "2026-10-27T14:17:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -262,7 +262,7 @@
        "nr": "II",
        "art": "Einzel",
        "spieler": "Richi",
-       "gegner": "Jeschurun",
+       "gegner": "Jochen",
        "saetze": "3:0",
        "sieg": true
       },
@@ -278,7 +278,7 @@
        "nr": "IIIA",
        "art": "Doppel",
        "spieler": "Max / Richi",
-       "gegner": "Nico / Jeschurun",
+       "gegner": "Nico / Jochen",
        "saetze": "3:0",
        "sieg": true
       },
@@ -302,7 +302,7 @@
        "nr": "VI",
        "art": "Einzel",
        "spieler": "Bary",
-       "gegner": "Jeschurun",
+       "gegner": "Jochen",
        "saetze": "3:0",
        "sieg": true
       }
@@ -1688,7 +1688,7 @@
        "nr": "III",
        "art": "Einzel",
        "spieler": "Cyril",
-       "gegner": "Reza",
+       "gegner": "Mohammad",
        "saetze": "0:3",
        "sieg": false
       },
@@ -1696,7 +1696,7 @@
        "nr": "IIIA",
        "art": "Doppel",
        "spieler": "Cyril / Joh. I.",
-       "gegner": "Manfred / Reza",
+       "gegner": "Manfred / Mohammad",
        "saetze": "2:3",
        "sieg": false
       },
@@ -1712,7 +1712,7 @@
        "nr": "V",
        "art": "Einzel",
        "spieler": "Adi",
-       "gegner": "Reza",
+       "gegner": "Mohammad",
        "saetze": "0:3",
        "sieg": false
       },
@@ -1728,7 +1728,7 @@
        "nr": "VII",
        "art": "Einzel",
        "spieler": "Joh. I.",
-       "gegner": "Reza",
+       "gegner": "Mohammad",
        "saetze": "0:3",
        "sieg": false
       },

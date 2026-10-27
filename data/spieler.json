@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-10-27T06:54:58Z",
+ "stand": "2026-10-27T14:17:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -55,7 +55,7 @@
      "nr": "VI",
      "art": "Einzel",
      "partner": null,
-     "gegner": "Jeschurun",
+     "gegner": "Jochen",
      "gegnerTeam": "LENZ4",
      "saetze": "3:0",
      "sieg": true
@@ -362,7 +362,7 @@
      "nr": "V",
      "art": "Einzel",
      "partner": null,
-     "gegner": "Reza",
+     "gegner": "Mohammad",
      "gegnerTeam": "FSF 3",
      "saetze": "0:3",
      "sieg": false
@@ -787,7 +787,7 @@
      "nr": "VII",
      "art": "Einzel",
      "partner": null,
-     "gegner": "Reza",
+     "gegner": "Mohammad",
      "gegnerTeam": "FSF 3",
      "saetze": "0:3",
      "sieg": false
@@ -813,7 +813,7 @@
      "nr": "IIIA",
      "art": "Doppel",
      "partner": "Cyril",
-     "gegner": "Manfred / Reza",
+     "gegner": "Manfred / Mohammad",
      "gegnerTeam": "FSF 3",
      "saetze": "2:3",
      "sieg": false
@@ -1088,7 +1088,7 @@
      "nr": "IIIA",
      "art": "Doppel",
      "partner": "Max",
-     "gegner": "Nico / Jeschurun",
+     "gegner": "Nico / Jochen",
      "gegnerTeam": "LENZ4",
      "saetze": "3:0",
      "sieg": true
@@ -1101,7 +1101,7 @@
      "nr": "II",
      "art": "Einzel",
      "partner": null,
-     "gegner": "Jeschurun",
+     "gegner": "Jochen",
      "gegnerTeam": "LENZ4",
      "saetze": "3:0",
      "sieg": true
@@ -1534,7 +1534,7 @@
      "nr": "IIIA",
      "art": "Doppel",
      "partner": "Richi",
-     "gegner": "Nico / Jeschurun",
+     "gegner": "Nico / Jochen",
      "gegnerTeam": "LENZ4",
      "saetze": "3:0",
      "sieg": true
@@ -2169,7 +2169,7 @@
      "nr": "IIIA",
      "art": "Doppel",
      "partner": "Joh. I.",
-     "gegner": "Manfred / Reza",
+     "gegner": "Manfred / Mohammad",
      "gegnerTeam": "FSF 3",
      "saetze": "2:3",
      "sieg": false
@@ -2182,7 +2182,7 @@
      "nr": "III",
      "art": "Einzel",
      "partner": null,
-     "gegner": "Reza",
+     "gegner": "Mohammad",
      "gegnerTeam": "FSF 3",
      "saetze": "0:3",
      "sieg": false
@@ -2729,7 +2729,7 @@
      "team": "W1",
      "runde": "1.4",
      "nr": "IIIA",
-     "gegner": "Nico / Jeschurun",
+     "gegner": "Nico / Jochen",
      "gegnerTeam": "LENZ4",
      "saetze": "3:0",
      "sieg": true
@@ -2925,7 +2925,7 @@
      "team": "V2",
      "runde": "1.4",
      "nr": "IIIA",
-     "gegner": "Manfred / Reza",
+     "gegner": "Manfred / Mohammad",
      "gegnerTeam": "FSF 3",
      "saetze": "2:3",
      "sieg": false
