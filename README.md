@@ -1,26 +1,35 @@
 # doeb-termine
 
 Übersicht aller Spiele der Union Döbling (WTTV W1, W2 · VÖB V1, V2 · WTTV-Cup C & Senioren B)
-als eine HTML-Seite für PC und Handy, automatisch aktuell gehalten über GitHub Actions.
+für PC und Handy.
 
-- `index.html` – die Seite selbst, lädt `data/termine.json` zur Laufzeit.
-- `data/bewerbe.json` – Konfiguration: welche Döbling-Mannschaft/Bewerb kommt von welcher
-  XTTV-Vereinstermine-Seite (oettv.xttv.at bzw. voeb.xttv.at), kein API-Key nötig.
-- `data/vorlaeufig.json` – **händisch von Hubert gepflegt**: eigene Spieler-Aufstellungen für
-  kommende Spiele (die XTTV nicht liefert) sowie Termine, die XTTV/Cup-Referat noch nicht
-  offiziell eingetragen hat. Zuordnung über `bewerb` + `runde` + `gegner`.
-- `data/termine.json` – von `tools/fetch_termine.py` automatisch erzeugt (nicht händisch
-  bearbeiten, wird von der GitHub Action überschrieben).
-- `.github/workflows/abruf.yml` – holt zweimal täglich die aktuellen Termine und committet sie.
+## Seiten
 
-Veröffentlicht werden nur Mannschafts-Daten (Paarungen, Ergebnisse, Termine). Das Feld
-"Spieler" zeigt ausschließlich die eigene Aufstellung (aus `data/vorlaeufig.json`), nie
-Angaben zu gegnerischen Spielern.
+- `index.html` – Terminübersicht: kommende und gespielte Spiele mit Ergebnis und Aufstellung.
+- `spieler.html` – Bilanz der Spieler und Doppel-Paarungen, aufklappbare Einzelspiele.
 
-## Händisch aktuell halten
+## Daten
 
-Wenn ein Termin noch nicht in XTTV steht (z. B. ein Cup-Termin, der erst vom Cup-Referat
-bestätigt werden muss) oder wenn eine Aufstellung für ein kommendes Spiel feststeht, trägst
-du das in `data/vorlaeufig.json` ein und committest/pusht die Datei – beim nächsten Lauf der
-Action wird es berücksichtigt (sobald XTTV den echten Termin liefert, übernimmt der
-automatische Abruf automatisch den echten Termin, die Aufstellung bleibt aber erhalten).
+- `data/termine.json` – alle Spiele samt Einzelspielen
+- `data/spieler.json` – Spieler-Bilanzen und Doppel-Paarungen
+- `data/tabellen.json` – Ligatabellen je Bewerb
+
+Alle drei Dateien werden automatisch erzeugt. **Nicht händisch bearbeiten** – sie werden beim
+nächsten Lauf überschrieben.
+
+## Woher die Daten kommen
+
+Einzige Quelle ist das Vereins-Verwaltungstool (Nextcloud). Ein Rechner des Vereins erzeugt
+daraus alle 30 Minuten einen gefilterten Auszug und lädt ihn hier hoch – aber nur, wenn sich
+inhaltlich etwas geändert hat. Es gibt keine GitHub Action.
+
+Termine, Verschiebungen und Aufstellungen werden **im Verwaltungstool** eingetragen, nicht hier.
+
+## Was öffentlich ist
+
+Je Spiel: Datum und Uhrzeit, Mannschaft, Runde, Gegner (Mannschaft), Heim/Auswärts, Status,
+Ergebnis, ob das Ergebnis bestätigt ist, Aufstellung und Einzelspiele.
+
+Eigene Spieler erscheinen nur mit Rufnamen (und nur, wenn sie zugestimmt haben), gegnerische
+Spieler nur mit Vornamen. Nicht veröffentlicht werden: Nachnamen gegnerischer Spieler,
+Passnummern, Spielorte, interne Notizen, Trainings- und Schiedsrichter-Termine.
