@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-27T14:17:02Z",
+ "stand": "2026-10-28T07:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -20,8 +20,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary",
      "bestaetigt": true,
+     "spieler": "Richi, Max, Bary",
      "einzel": [
       {
        "nr": "I",
@@ -93,8 +93,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary",
      "bestaetigt": true,
+     "spieler": "Richi, Max, Bary",
      "einzel": [
       {
        "nr": "I",
@@ -166,8 +166,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary",
      "bestaetigt": true,
+     "spieler": "Richi, Max, Bary",
      "einzel": [
       {
        "nr": "I",
@@ -247,8 +247,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Richi, Max, Bary",
      "bestaetigt": false,
+     "spieler": "Richi, Max, Bary",
      "einzel": [
       {
        "nr": "I",
@@ -397,8 +397,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Adi, Thom, Leopold",
      "bestaetigt": true,
+     "spieler": "Adi, Thom, Leopold",
      "einzel": [
       {
        "nr": "I",
@@ -478,8 +478,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Thom, Adi, Leopold",
      "bestaetigt": true,
+     "spieler": "Thom, Adi, Leopold",
      "einzel": [
       {
        "nr": "I",
@@ -575,8 +575,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Thom, Azi, Joh. I.",
      "bestaetigt": true,
+     "spieler": "Thom, Azi, Joh. I.",
      "einzel": [
       {
        "nr": "I",
@@ -656,8 +656,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Thom, Azi, Maxime",
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Thom, Azi, Maxime"
     },
     {
      "durchgang": 1,
@@ -671,7 +671,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Thom, Azi, Thierry"
     },
     {
      "durchgang": 1,
@@ -734,8 +735,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Richi, Max",
      "bestaetigt": true,
+     "spieler": "Bary, Richi, Max",
      "einzel": [
       {
        "nr": "I",
@@ -815,8 +816,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Richi, Georg, HM",
-     "bestaetigt": true
+     "bestaetigt": true,
+     "spieler": "Bary, Richi, Georg, HM"
     },
     {
      "durchgang": 1,
@@ -830,8 +831,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Georg, HM",
      "bestaetigt": true,
+     "spieler": "Bary, Georg, HM",
      "einzel": [
       {
        "nr": "I",
@@ -927,8 +928,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Georg, HM",
      "bestaetigt": true,
+     "spieler": "Bary, Georg, HM",
      "einzel": [
       {
        "nr": "I",
@@ -1008,8 +1009,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Luke, Gidi",
      "bestaetigt": true,
+     "spieler": "Bary, Luke, Gidi",
      "einzel": [
       {
        "nr": "I",
@@ -1105,8 +1106,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, Erik, HM",
      "bestaetigt": true,
+     "spieler": "Bary, Erik, HM",
      "einzel": [
       {
        "nr": "I",
@@ -1194,8 +1195,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Bary, HM",
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Bary, HM"
     },
     {
      "durchgang": 1,
@@ -1398,8 +1399,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Adi",
      "bestaetigt": true,
+     "spieler": "Joh. I., Cyril, Adi",
      "einzel": [
       {
        "nr": "I",
@@ -1471,8 +1472,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Adi",
      "bestaetigt": true,
+     "spieler": "Joh. I., Cyril, Adi",
      "einzel": [
       {
        "nr": "I",
@@ -1568,8 +1569,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Fabi, Cyril, Adi",
      "bestaetigt": true,
+     "spieler": "Fabi, Cyril, Adi",
      "einzel": [
       {
        "nr": "I",
@@ -1665,8 +1666,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Adi",
      "bestaetigt": true,
+     "spieler": "Joh. I., Cyril, Adi",
      "einzel": [
       {
        "nr": "I",
@@ -1762,8 +1763,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": "PT",
-     "spieler": "Joh. I., Cyril, Adi",
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Joh. I., Cyril, Adi"
     },
     {
      "durchgang": 1,
@@ -1777,8 +1778,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Joh. I., Cyril, Thom",
      "bestaetigt": true,
+     "spieler": "Joh. I., Cyril, Thom",
      "einzel": [
       {
        "nr": "I",
@@ -1858,8 +1859,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi",
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Adi"
     },
     {
      "durchgang": 1,
@@ -1873,8 +1874,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi",
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Adi"
     },
     {
      "durchgang": 1,
@@ -1888,8 +1889,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi",
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Adi"
     },
     {
      "durchgang": 1,
@@ -1917,8 +1918,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "spieler": "Adi",
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Adi"
     },
     {
      "durchgang": 2,
@@ -2093,8 +2094,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Luke, Carsten, Dani, HM",
      "bestaetigt": true,
+     "spieler": "Luke, Carsten, Dani, HM",
      "einzel": [
       {
        "nr": "1",
@@ -2150,8 +2151,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "Carsten, HM, Joh. I.",
      "bestaetigt": true,
+     "spieler": "Carsten, HM, Joh. I.",
      "einzel": [
       {
        "nr": "1",
@@ -2220,8 +2221,8 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "spieler": "HM, Cyril",
      "bestaetigt": true,
+     "spieler": "HM, Cyril",
      "einzel": [
       {
        "nr": "D",
