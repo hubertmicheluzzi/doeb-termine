@@ -106,6 +106,7 @@ function renderCard(m, teams){
       const cls = eig > geg ? "win" : (eig < geg ? "loss" : "draw");
       resultHtml = `<div class="result ${cls}">${eig} : ${geg}</div>`;
     }
+    if(m.spieler) resultHtml += `<div class="spieler">${m.spieler}</div>`;
   } else {
     resultHtml = m.spieler ? `<div class="spieler">${m.spieler}</div>` : "";
     if(m.vorlaeufig) metaExtra += " &middot; vorläufig";
