@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-28T21:17:02Z",
+ "stand": "2026-10-28T21:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1210,7 +1210,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Bary, HM"
     },
     {
      "durchgang": 1,
@@ -1224,7 +1225,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Bary"
     },
     {
      "durchgang": 1,
@@ -1238,7 +1240,8 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Bary"
     },
     {
      "durchgang": 2,
