@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-28T07:47:02Z",
+ "stand": "2026-10-28T21:17:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1196,7 +1196,7 @@
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Bary, HM"
+     "spieler": "Bary, Erik, HM"
     },
     {
      "durchgang": 1,
