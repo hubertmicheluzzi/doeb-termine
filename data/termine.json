@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-29T08:47:03Z",
+ "stand": "2026-10-29T12:17:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1768,7 +1768,7 @@
      "zeit": "18:00",
      "hinweis": "PT",
      "bestaetigt": false,
-     "spieler": "Joh. I., Cyril, Adi"
+     "spieler": "Joh. I., Thom, Adi"
     },
     {
      "durchgang": 1,
@@ -1864,7 +1864,7 @@
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Adi"
+     "spieler": "Joh. I., Cyril, Adi"
     },
     {
      "durchgang": 1,
@@ -1879,7 +1879,7 @@
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Adi"
+     "spieler": "Joh. I., Cyril, Adi"
     },
     {
      "durchgang": 1,
@@ -1894,7 +1894,7 @@
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Adi"
+     "spieler": "Joh. I., Adi"
     },
     {
      "durchgang": 1,
