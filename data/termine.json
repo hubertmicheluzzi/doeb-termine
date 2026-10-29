@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-28T22:17:03Z",
+ "stand": "2026-10-29T07:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -657,7 +657,7 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Thom, Azi, Maxime"
+     "spieler": "Thom, Maxime"
     },
     {
      "durchgang": 1,
@@ -672,7 +672,7 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Thom, Azi, Thierry"
+     "spieler": "Thom, Thierry"
     },
     {
      "durchgang": 1,
