@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-10-30T01:47:03Z",
+ "stand": "2026-10-30T07:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -22,12 +22,12 @@
     {
      "platz": 2,
      "mannschaft": "BRZ 2",
-     "spiele": 4,
-     "siege": 4,
+     "spiele": 5,
+     "siege": 5,
      "unentschieden": 0,
      "niederlagen": 0,
-     "einzel": "24:9",
-     "punkte": 12,
+     "einzel": "30:10",
+     "punkte": 15,
      "eigen": false
     },
     {
@@ -55,11 +55,11 @@
     {
      "platz": 5,
      "mannschaft": "WN 1",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 3,
      "unentschieden": 0,
-     "niederlagen": 1,
-     "einzel": "20:10",
+     "niederlagen": 2,
+     "einzel": "21:16",
      "punkte": 9,
      "eigen": false
     },
@@ -135,7 +135,7 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-10-27",
+   "stand": "2026-10-30",
    "tabelle": [
     {
      "platz": 1,
@@ -184,16 +184,27 @@
     {
      "platz": 5,
      "mannschaft": "BKA 3",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 3,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "einzel": "23:20",
+     "niederlagen": 3,
+     "einzel": "24:26",
      "punkte": 9,
      "eigen": false
     },
     {
      "platz": 6,
+     "mannschaft": "KSVUW 3",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "einzel": "24:27",
+     "punkte": 9,
+     "eigen": false
+    },
+    {
+     "platz": 7,
      "mannschaft": "POST 4",
      "spiele": 6,
      "siege": 2,
@@ -204,7 +215,7 @@
      "eigen": false
     },
     {
-     "platz": 7,
+     "platz": 8,
      "mannschaft": "FSF 3",
      "spiele": 6,
      "siege": 2,
@@ -215,7 +226,7 @@
      "eigen": false
     },
     {
-     "platz": 8,
+     "platz": 9,
      "mannschaft": "ATTW 5",
      "spiele": 7,
      "siege": 2,
@@ -223,17 +234,6 @@
      "niederlagen": 4,
      "einzel": "29:35",
      "punkte": 7,
-     "eigen": false
-    },
-    {
-     "platz": 9,
-     "mannschaft": "KSVUW 3",
-     "spiele": 5,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "einzel": "18:26",
-     "punkte": 6,
      "eigen": false
     },
     {
