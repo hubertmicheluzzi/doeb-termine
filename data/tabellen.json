@@ -1,12 +1,12 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-10-27T13:09:54Z",
+ "stand": "2026-10-30T01:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
    "farbe": "v1",
    "liga": "VÖB, 1. Klasse B",
-   "stand": "2026-10-27",
+   "stand": "2026-10-30",
    "tabelle": [
     {
      "platz": 1,
@@ -66,12 +66,12 @@
     {
      "platz": 6,
      "mannschaft": "BKA 1",
-     "spiele": 4,
-     "siege": 2,
+     "spiele": 5,
+     "siege": 3,
      "unentschieden": 0,
      "niederlagen": 2,
-     "einzel": "15:17",
-     "punkte": 6,
+     "einzel": "21:20",
+     "punkte": 9,
      "eigen": false
     },
     {
@@ -121,11 +121,11 @@
     {
      "platz": 11,
      "mannschaft": "FJB 2",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 4,
-     "einzel": "9:25",
+     "niederlagen": 5,
+     "einzel": "12:31",
      "punkte": 0,
      "eigen": false
     }
