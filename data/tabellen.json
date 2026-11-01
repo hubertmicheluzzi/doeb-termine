@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-10-30T07:17:03Z",
+ "stand": "2026-11-01T08:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -135,7 +135,7 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-10-30",
+   "stand": "2026-11-01",
    "tabelle": [
     {
      "platz": 1,
@@ -173,11 +173,11 @@
     {
      "platz": 4,
      "mannschaft": "OLY 4",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 3,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "einzel": "21:18",
+     "niederlagen": 3,
+     "einzel": "24:24",
      "punkte": 9,
      "eigen": false
     },
@@ -238,6 +238,17 @@
     },
     {
      "platz": 10,
+     "mannschaft": "DÖB 2",
+     "spiele": 6,
+     "siege": 2,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "einzel": "24:30",
+     "punkte": 7,
+     "eigen": true
+    },
+    {
+     "platz": 11,
      "mannschaft": "HG I 3",
      "spiele": 6,
      "siege": 1,
@@ -246,17 +257,6 @@
      "einzel": "25:32",
      "punkte": 5,
      "eigen": false
-    },
-    {
-     "platz": 11,
-     "mannschaft": "DÖB 2",
-     "spiele": 5,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 3,
-     "einzel": "18:27",
-     "punkte": 4,
-     "eigen": true
     },
     {
      "platz": 12,

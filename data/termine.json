@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-10-30T08:47:03Z",
+ "stand": "2026-11-01T08:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1760,15 +1760,89 @@
      "runde": 5,
      "ha": "A",
      "gegner": "OLY 4",
-     "status": "upcoming",
-     "punkteEigen": null,
-     "punkteGegner": null,
+     "status": "past",
+     "punkteEigen": 6,
+     "punkteGegner": 3,
      "datum": "2026-10-30",
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": "PT",
-     "bestaetigt": false,
-     "spieler": "Joh. I., Thom, Adi"
+     "bestaetigt": true,
+     "spieler": "Joh. I., Thom, Adi",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Kathrin",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Damir",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Oleksandr",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Joh. I. / Adi",
+       "gegner": "Oleksandr / Damir",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Kathrin",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Oleksandr",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Damir",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Oleksandr",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Kathrin",
+       "saetze": "3:0",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,

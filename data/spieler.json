@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-10-27T14:17:04Z",
+ "stand": "2026-11-01T08:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -28,6 +28,699 @@
   }
  },
  "spieler": [
+  {
+   "name": "Adi",
+   "einzel": [
+    12,
+    8
+   ],
+   "saetze": [
+    43,
+    30
+   ],
+   "doppel": [
+    2,
+    4
+   ],
+   "teams": {
+    "v2": 5,
+    "w2": 2
+   },
+   "spiele": [
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "VIII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Kathrin",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Damir",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Joh. I.",
+     "gegner": "Oleksandr / Damir",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Oleksandr",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-08",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.4",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Mohammad",
+     "gegnerTeam": "FSF 3",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-08",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.4",
+     "nr": "IX",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Manfred",
+     "gegnerTeam": "FSF 3",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-08",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.4",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Massoud",
+     "gegnerTeam": "FSF 3",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-06",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.3",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "György",
+     "gegnerTeam": "GEB2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-06",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.3",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Brigitte",
+     "gegnerTeam": "GEB2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-06",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.3",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Thom",
+     "gegner": "György / Brigitte",
+     "gegnerTeam": "GEB2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-06",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.3",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Ulrike",
+     "gegnerTeam": "GEB2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-02",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.2",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Martin",
+     "gegnerTeam": "NFS14",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-02",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.2",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Leon",
+     "gegnerTeam": "NFS14",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-02",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.2",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Thom",
+     "gegner": "Martin / Lukas",
+     "gegnerTeam": "NFS14",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-02",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.2",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Lukas",
+     "gegnerTeam": "NFS14",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-24",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.3",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Friedrich",
+     "gegnerTeam": "LAND 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-24",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.3",
+     "nr": "IX",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Johannes",
+     "gegnerTeam": "LAND 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-24",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.3",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Cyril",
+     "gegner": "Panagiotis / Johannes",
+     "gegnerTeam": "LAND 2",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-24",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.3",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Panagiotis",
+     "gegnerTeam": "LAND 2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Alois",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Paul",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Joh. I.",
+     "gegner": "Alois / Paul",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Kurt",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-10",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.1",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Norbert",
+     "gegnerTeam": "BKA 3",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-10",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.1",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Joh. I.",
+     "gegner": "György / Norbert",
+     "gegnerTeam": "BKA 3",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-10",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.1",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "György",
+     "gegnerTeam": "BKA 3",
+     "saetze": "1:3",
+     "sieg": false
+    }
+   ]
+  },
+  {
+   "name": "Joh. I.",
+   "einzel": [
+    10,
+    8
+   ],
+   "saetze": [
+    38,
+    28
+   ],
+   "doppel": [
+    3,
+    3
+   ],
+   "teams": {
+    "cupc": 1,
+    "v2": 5,
+    "w2": 1
+   },
+   "spiele": [
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Oleksandr",
+     "gegnerTeam": "OLY 4",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Kathrin",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Adi",
+     "gegner": "Oleksandr / Damir",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Damir",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-23",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.4",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Karl",
+     "gegnerTeam": "SKFL21",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-23",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.4",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Brigitte",
+     "gegnerTeam": "SKFL21",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-23",
+     "bewerb": "w2",
+     "team": "W2",
+     "runde": "1.4",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Wilhelm",
+     "gegnerTeam": "SKFL21",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.6",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Christian",
+     "gegnerTeam": "POST 4",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.6",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Harald",
+     "gegnerTeam": "POST 4",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.6",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Cyril",
+     "gegner": "Harald / Christian",
+     "gegnerTeam": "POST 4",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.6",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Branko",
+     "gegnerTeam": "POST 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-14",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.2",
+     "nr": "4",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Karl / Eli",
+     "gegnerTeam": "HAK1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-14",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.2",
+     "nr": "3",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Karl",
+     "gegnerTeam": "HAK1",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-08",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.4",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Mohammad",
+     "gegnerTeam": "FSF 3",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-08",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.4",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Massoud",
+     "gegnerTeam": "FSF 3",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-08",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.4",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Cyril",
+     "gegner": "Manfred / Mohammad",
+     "gegnerTeam": "FSF 3",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-08",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.4",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Manfred",
+     "gegnerTeam": "FSF 3",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Kurt",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "IX",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Paul",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Adi",
+     "gegner": "Alois / Paul",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Alois",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-10",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.1",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Ulrike",
+     "gegnerTeam": "BKA 3",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-10",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.1",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Adi",
+     "gegner": "György / Norbert",
+     "gegnerTeam": "BKA 3",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-10",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.1",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Norbert",
+     "gegnerTeam": "BKA 3",
+     "saetze": "2:3",
+     "sieg": false
+    }
+   ]
+  },
   {
    "name": "Bary",
    "einzel": [
@@ -331,595 +1024,6 @@
      "gegner": "Adam",
      "gegnerTeam": "BKA 1",
      "saetze": "1:3",
-     "sieg": false
-    }
-   ]
-  },
-  {
-   "name": "Adi",
-   "einzel": [
-    9,
-    8
-   ],
-   "saetze": [
-    34,
-    28
-   ],
-   "doppel": [
-    1,
-    4
-   ],
-   "teams": {
-    "v2": 4,
-    "w2": 2
-   },
-   "spiele": [
-    {
-     "datum": "2026-10-08",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.4",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Mohammad",
-     "gegnerTeam": "FSF 3",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-08",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.4",
-     "nr": "IX",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Manfred",
-     "gegnerTeam": "FSF 3",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-08",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.4",
-     "nr": "I",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Massoud",
-     "gegnerTeam": "FSF 3",
-     "saetze": "3:2",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-06",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.3",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "György",
-     "gegnerTeam": "GEB2",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-06",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.3",
-     "nr": "IV",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Brigitte",
-     "gegnerTeam": "GEB2",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-06",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.3",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Thom",
-     "gegner": "György / Brigitte",
-     "gegnerTeam": "GEB2",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-06",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.3",
-     "nr": "II",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Ulrike",
-     "gegnerTeam": "GEB2",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-02",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.2",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Martin",
-     "gegnerTeam": "NFS14",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-02",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.2",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Leon",
-     "gegnerTeam": "NFS14",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-02",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.2",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Thom",
-     "gegner": "Martin / Lukas",
-     "gegnerTeam": "NFS14",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-02",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.2",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Lukas",
-     "gegnerTeam": "NFS14",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-24",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.3",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Friedrich",
-     "gegnerTeam": "LAND 2",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-24",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.3",
-     "nr": "IX",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Johannes",
-     "gegnerTeam": "LAND 2",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-24",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.3",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Cyril",
-     "gegner": "Panagiotis / Johannes",
-     "gegnerTeam": "LAND 2",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-24",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.3",
-     "nr": "I",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Panagiotis",
-     "gegnerTeam": "LAND 2",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Alois",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Paul",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Joh. I.",
-     "gegner": "Alois / Paul",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Kurt",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "3:2",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-10",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.1",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Norbert",
-     "gegnerTeam": "BKA 3",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-10",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.1",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Joh. I.",
-     "gegner": "György / Norbert",
-     "gegnerTeam": "BKA 3",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-10",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.1",
-     "nr": "I",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "György",
-     "gegnerTeam": "BKA 3",
-     "saetze": "1:3",
-     "sieg": false
-    }
-   ]
-  },
-  {
-   "name": "Joh. I.",
-   "einzel": [
-    8,
-    7
-   ],
-   "saetze": [
-    31,
-    24
-   ],
-   "doppel": [
-    2,
-    3
-   ],
-   "teams": {
-    "cupc": 1,
-    "v2": 4,
-    "w2": 1
-   },
-   "spiele": [
-    {
-     "datum": "2026-10-23",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.4",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Karl",
-     "gegnerTeam": "SKFL21",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-23",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.4",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Brigitte",
-     "gegnerTeam": "SKFL21",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-23",
-     "bewerb": "w2",
-     "team": "W2",
-     "runde": "1.4",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Wilhelm",
-     "gegnerTeam": "SKFL21",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.6",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Christian",
-     "gegnerTeam": "POST 4",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.6",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Harald",
-     "gegnerTeam": "POST 4",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.6",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Cyril",
-     "gegner": "Harald / Christian",
-     "gegnerTeam": "POST 4",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.6",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Branko",
-     "gegnerTeam": "POST 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-14",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.2",
-     "nr": "4",
-     "art": "Doppel",
-     "partner": "HM",
-     "gegner": "Karl / Eli",
-     "gegnerTeam": "HAK1",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-14",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.2",
-     "nr": "3",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Karl",
-     "gegnerTeam": "HAK1",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-08",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.4",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Mohammad",
-     "gegnerTeam": "FSF 3",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-08",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.4",
-     "nr": "IV",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Massoud",
-     "gegnerTeam": "FSF 3",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-08",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.4",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Cyril",
-     "gegner": "Manfred / Mohammad",
-     "gegnerTeam": "FSF 3",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-08",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.4",
-     "nr": "II",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Manfred",
-     "gegnerTeam": "FSF 3",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "VI",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Kurt",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "IX",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Paul",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Adi",
-     "gegner": "Alois / Paul",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "II",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Alois",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-10",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.1",
-     "nr": "VI",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Ulrike",
-     "gegnerTeam": "BKA 3",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-10",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.1",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Adi",
-     "gegner": "György / Norbert",
-     "gegnerTeam": "BKA 3",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-10",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.1",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Norbert",
-     "gegnerTeam": "BKA 3",
-     "saetze": "2:3",
      "sieg": false
     }
    ]
@@ -1727,21 +1831,47 @@
    "name": "Thom",
    "einzel": [
     5,
-    4
+    6
    ],
    "saetze": [
-    19,
-    20
+    21,
+    26
    ],
    "doppel": [
     0,
     3
    ],
    "teams": {
-    "v2": 1,
+    "v2": 2,
     "w2": 3
    },
    "spiele": [
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Oleksandr",
+     "gegnerTeam": "OLY 4",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Kathrin",
+     "gegnerTeam": "OLY 4",
+     "saetze": "2:3",
+     "sieg": false
+    },
     {
      "datum": "2026-10-23",
      "bewerb": "w2",
@@ -2781,6 +2911,55 @@
    ]
   },
   {
+   "paar": "Adi / Joh. I.",
+   "bilanz": [
+    2,
+    1
+   ],
+   "saetze": [
+    7,
+    4
+   ],
+   "teams": {
+    "v2": 3
+   },
+   "spiele": [
+    {
+     "datum": "2026-10-30",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.5",
+     "nr": "IIIA",
+     "gegner": "Oleksandr / Damir",
+     "gegnerTeam": "OLY 4",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.2",
+     "nr": "IIIA",
+     "gegner": "Alois / Paul",
+     "gegnerTeam": "ATTW 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-10",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.1",
+     "nr": "IIIA",
+     "gegner": "György / Norbert",
+     "gegnerTeam": "BKA 3",
+     "saetze": "1:3",
+     "sieg": false
+    }
+   ]
+  },
+  {
    "paar": "Georg / HM",
    "bilanz": [
     2,
@@ -2815,44 +2994,6 @@
      "gegnerTeam": "OWA 2",
      "saetze": "3:2",
      "sieg": true
-    }
-   ]
-  },
-  {
-   "paar": "Adi / Joh. I.",
-   "bilanz": [
-    1,
-    1
-   ],
-   "saetze": [
-    4,
-    4
-   ],
-   "teams": {
-    "v2": 2
-   },
-   "spiele": [
-    {
-     "datum": "2026-09-16",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.2",
-     "nr": "IIIA",
-     "gegner": "Alois / Paul",
-     "gegnerTeam": "ATTW 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-10",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.1",
-     "nr": "IIIA",
-     "gegner": "György / Norbert",
-     "gegnerTeam": "BKA 3",
-     "saetze": "1:3",
-     "sieg": false
     }
    ]
   },
