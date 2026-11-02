@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-02T20:17:02Z",
+ "stand": "2026-11-02T20:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -2279,7 +2279,7 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Carsten"
+     "spieler": "Carsten, HM"
     }
    ]
   },
