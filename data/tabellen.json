@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-03T07:17:03Z",
+ "stand": "2026-11-03T19:47:02Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -172,6 +172,17 @@
     },
     {
      "platz": 4,
+     "mannschaft": "POST 4",
+     "spiele": 7,
+     "siege": 3,
+     "unentschieden": 2,
+     "niederlagen": 2,
+     "einzel": "34:29",
+     "punkte": 11,
+     "eigen": false
+    },
+    {
+     "platz": 5,
      "mannschaft": "OLY 4",
      "spiele": 6,
      "siege": 3,
@@ -182,7 +193,7 @@
      "eigen": false
     },
     {
-     "platz": 5,
+     "platz": 6,
      "mannschaft": "KSVUW 3",
      "spiele": 6,
      "siege": 3,
@@ -193,7 +204,7 @@
      "eigen": false
     },
     {
-     "platz": 6,
+     "platz": 7,
      "mannschaft": "BKA 3",
      "spiele": 7,
      "siege": 3,
@@ -204,24 +215,13 @@
      "eigen": false
     },
     {
-     "platz": 7,
-     "mannschaft": "POST 4",
-     "spiele": 6,
-     "siege": 2,
-     "unentschieden": 2,
-     "niederlagen": 2,
-     "einzel": "28:28",
-     "punkte": 8,
-     "eigen": false
-    },
-    {
      "platz": 8,
      "mannschaft": "FSF 3",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 2,
      "unentschieden": 1,
-     "niederlagen": 3,
-     "einzel": "28:26",
+     "niederlagen": 4,
+     "einzel": "29:32",
      "punkte": 7,
      "eigen": false
     },
