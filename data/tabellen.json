@@ -1,12 +1,12 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-01T08:47:03Z",
+ "stand": "2026-11-03T07:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
    "farbe": "v1",
    "liga": "VÖB, 1. Klasse B",
-   "stand": "2026-10-30",
+   "stand": "2026-11-03",
    "tabelle": [
     {
      "platz": 1,
@@ -98,6 +98,17 @@
     },
     {
      "platz": 9,
+     "mannschaft": "FJB 2",
+     "spiele": 6,
+     "siege": 1,
+     "unentschieden": 0,
+     "niederlagen": 5,
+     "einzel": "18:32",
+     "punkte": 3,
+     "eigen": false
+    },
+    {
+     "platz": 10,
      "mannschaft": "WILI 4",
      "spiele": 6,
      "siege": 1,
@@ -108,25 +119,14 @@
      "eigen": false
     },
     {
-     "platz": 10,
+     "platz": 11,
      "mannschaft": "LAND 1",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 4,
-     "einzel": "14:29",
-     "punkte": 3,
-     "eigen": false
-    },
-    {
-     "platz": 11,
-     "mannschaft": "FJB 2",
-     "spiele": 5,
-     "siege": 0,
-     "unentschieden": 0,
      "niederlagen": 5,
-     "einzel": "12:31",
-     "punkte": 0,
+     "einzel": "15:35",
+     "punkte": 3,
      "eigen": false
     }
    ]
@@ -135,21 +135,32 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-11-01",
+   "stand": "2026-11-03",
    "tabelle": [
     {
      "platz": 1,
      "mannschaft": "LENZ 2",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 6,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 0,
-     "einzel": "37:11",
-     "punkte": 18,
+     "einzel": "42:16",
+     "punkte": 19,
      "eigen": false
     },
     {
      "platz": 2,
+     "mannschaft": "KÖST 1",
+     "spiele": 7,
+     "siege": 4,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "einzel": "37:23",
+     "punkte": 14,
+     "eigen": false
+    },
+    {
+     "platz": 3,
      "mannschaft": "ATTW 4",
      "spiele": 7,
      "siege": 4,
@@ -157,17 +168,6 @@
      "niederlagen": 2,
      "einzel": "34:29",
      "punkte": 13,
-     "eigen": false
-    },
-    {
-     "platz": 3,
-     "mannschaft": "KÖST 1",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 2,
-     "niederlagen": 1,
-     "einzel": "31:22",
-     "punkte": 11,
      "eigen": false
     },
     {
@@ -183,23 +183,23 @@
     },
     {
      "platz": 5,
-     "mannschaft": "BKA 3",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "einzel": "24:26",
-     "punkte": 9,
-     "eigen": false
-    },
-    {
-     "platz": 6,
      "mannschaft": "KSVUW 3",
      "spiele": 6,
      "siege": 3,
      "unentschieden": 0,
      "niederlagen": 3,
      "einzel": "24:27",
+     "punkte": 9,
+     "eigen": false
+    },
+    {
+     "platz": 6,
+     "mannschaft": "BKA 3",
+     "spiele": 7,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 4,
+     "einzel": "25:32",
      "punkte": 9,
      "eigen": false
     },
@@ -250,12 +250,12 @@
     {
      "platz": 11,
      "mannschaft": "HG I 3",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 1,
-     "unentschieden": 2,
+     "unentschieden": 3,
      "niederlagen": 3,
-     "einzel": "25:32",
-     "punkte": 5,
+     "einzel": "30:37",
+     "punkte": 6,
      "eigen": false
     },
     {
@@ -275,17 +275,17 @@
    "label": "W1",
    "farbe": "w1",
    "liga": "WTTV, 3. Klasse B",
-   "stand": "2026-10-27",
+   "stand": "2026-11-03",
    "tabelle": [
     {
      "platz": 1,
      "mannschaft": "HAK2",
-     "spiele": 4,
-     "siege": 3,
+     "spiele": 5,
+     "siege": 4,
      "unentschieden": 1,
      "niederlagen": 0,
-     "einzel": "23:14",
-     "punkte": 7,
+     "einzel": "29:16",
+     "punkte": 9,
      "eigen": false
     },
     {
@@ -368,11 +368,11 @@
     {
      "platz": 9,
      "mannschaft": "KONT7",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "einzel": "14:22",
+     "niederlagen": 4,
+     "einzel": "16:28",
      "punkte": 2,
      "eigen": false
     },
