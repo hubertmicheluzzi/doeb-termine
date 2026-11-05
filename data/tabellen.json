@@ -1,22 +1,22 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-04T22:17:03Z",
+ "stand": "2026-11-05T12:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
    "farbe": "v1",
    "liga": "VÖB, 1. Klasse B",
-   "stand": "2026-11-04",
+   "stand": "2026-11-05",
    "tabelle": [
     {
      "platz": 1,
      "mannschaft": "BTTC 1",
-     "spiele": 6,
-     "siege": 5,
+     "spiele": 7,
+     "siege": 6,
      "unentschieden": 0,
      "niederlagen": 1,
-     "einzel": "34:10",
-     "punkte": 15,
+     "einzel": "40:12",
+     "punkte": 18,
      "eigen": false
     },
     {
@@ -44,11 +44,11 @@
     {
      "platz": 4,
      "mannschaft": "OWA 2",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 4,
      "unentschieden": 0,
-     "niederlagen": 1,
-     "einzel": "28:20",
+     "niederlagen": 2,
+     "einzel": "30:26",
      "punkte": 12,
      "eigen": false
     },
