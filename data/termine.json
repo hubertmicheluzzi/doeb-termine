@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-05T20:47:02Z",
+ "stand": "2026-11-05T21:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1938,7 +1938,73 @@
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Joh. I., Cyril, Adi"
+     "spieler": "Joh. I., Cyril, Adi",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Robert",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Friedrich",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Manfred",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Joh. I. / Adi",
+       "gegner": "Friedrich / Manfred",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Robert",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Manfred",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Friedrich",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Manfred",
+       "saetze": "3:1",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,

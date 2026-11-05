@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-11-01T08:47:04Z",
+ "stand": "2026-11-05T21:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -31,22 +31,61 @@
   {
    "name": "Adi",
    "einzel": [
-    12,
+    14,
     8
    ],
    "saetze": [
-    43,
+    49,
     30
    ],
    "doppel": [
-    2,
+    3,
     4
    ],
    "teams": {
-    "v2": 5,
+    "v2": 6,
     "w2": 2
    },
    "spiele": [
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Friedrich",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Joh. I.",
+     "gegner": "Friedrich / Manfred",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Manfred",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:0",
+     "sieg": true
+    },
     {
      "datum": "2026-10-30",
      "bewerb": "v2",
@@ -390,23 +429,75 @@
   {
    "name": "Joh. I.",
    "einzel": [
-    10,
+    13,
     8
    ],
    "saetze": [
-    38,
-    28
+    47,
+    30
    ],
    "doppel": [
-    3,
+    4,
     3
    ],
    "teams": {
     "cupc": 1,
-    "v2": 5,
+    "v2": 6,
     "w2": 1
    },
    "spiele": [
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Manfred",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Robert",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Adi",
+     "gegner": "Friedrich / Manfred",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Friedrich",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:1",
+     "sieg": true
+    },
     {
      "datum": "2026-10-30",
      "bewerb": "v2",
@@ -2211,11 +2302,11 @@
    "name": "Cyril",
    "einzel": [
     2,
-    13
+    15
    ],
    "saetze": [
-    14,
-    41
+    17,
+    47
    ],
    "doppel": [
     0,
@@ -2223,9 +2314,35 @@
    ],
    "teams": {
     "cupsenb": 1,
-    "v2": 5
+    "v2": 6
    },
    "spiele": [
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Manfred",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Robert",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "1:3",
+     "sieg": false
+    },
     {
      "datum": "2026-10-22",
      "bewerb": "v2",
@@ -2913,17 +3030,28 @@
   {
    "paar": "Adi / Joh. I.",
    "bilanz": [
-    2,
+    3,
     1
    ],
    "saetze": [
-    7,
-    4
+    10,
+    5
    ],
    "teams": {
-    "v2": 3
+    "v2": 4
    },
    "spiele": [
+    {
+     "datum": "2026-11-05",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.7",
+     "nr": "IIIA",
+     "gegner": "Friedrich / Manfred",
+     "gegnerTeam": "KSVUW 3",
+     "saetze": "3:1",
+     "sieg": true
+    },
     {
      "datum": "2026-10-30",
      "bewerb": "v2",
