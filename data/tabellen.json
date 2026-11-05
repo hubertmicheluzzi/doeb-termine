@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-05T12:47:03Z",
+ "stand": "2026-11-05T20:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -135,7 +135,7 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-11-03",
+   "stand": "2026-11-05",
    "tabelle": [
     {
      "platz": 1,
@@ -183,6 +183,17 @@
     },
     {
      "platz": 5,
+     "mannschaft": "DÖB 2",
+     "spiele": 7,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 3,
+     "einzel": "30:32",
+     "punkte": 10,
+     "eigen": true
+    },
+    {
+     "platz": 6,
      "mannschaft": "OLY 4",
      "spiele": 6,
      "siege": 3,
@@ -193,18 +204,18 @@
      "eigen": false
     },
     {
-     "platz": 6,
+     "platz": 7,
      "mannschaft": "KSVUW 3",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 3,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "einzel": "24:27",
+     "niederlagen": 4,
+     "einzel": "26:33",
      "punkte": 9,
      "eigen": false
     },
     {
-     "platz": 7,
+     "platz": 8,
      "mannschaft": "BKA 3",
      "spiele": 7,
      "siege": 3,
@@ -215,7 +226,7 @@
      "eigen": false
     },
     {
-     "platz": 8,
+     "platz": 9,
      "mannschaft": "FSF 3",
      "spiele": 7,
      "siege": 2,
@@ -226,7 +237,7 @@
      "eigen": false
     },
     {
-     "platz": 9,
+     "platz": 10,
      "mannschaft": "ATTW 5",
      "spiele": 7,
      "siege": 2,
@@ -235,17 +246,6 @@
      "einzel": "29:35",
      "punkte": 7,
      "eigen": false
-    },
-    {
-     "platz": 10,
-     "mannschaft": "DÖB 2",
-     "spiele": 6,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 3,
-     "einzel": "24:30",
-     "punkte": 7,
-     "eigen": true
     },
     {
      "platz": 11,
