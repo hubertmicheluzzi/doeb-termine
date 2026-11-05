@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-05T20:47:03Z",
+ "stand": "2026-11-05T21:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -393,7 +393,7 @@
    "label": "W2",
    "farbe": "w2",
    "liga": "WTTV, Gruppe VIb",
-   "stand": "2026-11-04",
+   "stand": "2026-11-05",
    "tabelle": [
     {
      "platz": 1,
@@ -408,6 +408,17 @@
     },
     {
      "platz": 2,
+     "mannschaft": "SGPF13",
+     "spiele": 4,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "22:13",
+     "punkte": 6,
+     "eigen": false
+    },
+    {
+     "platz": 3,
      "mannschaft": "TYR1",
      "spiele": 4,
      "siege": 3,
@@ -418,7 +429,7 @@
      "eigen": false
     },
     {
-     "platz": 3,
+     "platz": 4,
      "mannschaft": "SKFL21",
      "spiele": 5,
      "siege": 3,
@@ -426,17 +437,6 @@
      "niederlagen": 2,
      "einzel": "23:19",
      "punkte": 6,
-     "eigen": false
-    },
-    {
-     "platz": 4,
-     "mannschaft": "SGPF13",
-     "spiele": 3,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "einzel": "16:12",
-     "punkte": 4,
      "eigen": false
     },
     {
@@ -464,11 +464,11 @@
     {
      "platz": 7,
      "mannschaft": "GEB2",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 1,
-     "einzel": "12:13",
+     "niederlagen": 2,
+     "einzel": "13:19",
      "punkte": 3,
      "eigen": false
     },
