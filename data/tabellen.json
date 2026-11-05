@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-05T21:17:03Z",
+ "stand": "2026-11-05T23:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -275,7 +275,7 @@
    "label": "W1",
    "farbe": "w1",
    "liga": "WTTV, 3. Klasse B",
-   "stand": "2026-11-03",
+   "stand": "2026-11-06",
    "tabelle": [
     {
      "platz": 1,
@@ -312,6 +312,17 @@
     },
     {
      "platz": 4,
+     "mannschaft": "LSV6",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 2,
+     "einzel": "24:23",
+     "punkte": 6,
+     "eigen": false
+    },
+    {
+     "platz": 5,
      "mannschaft": "NFS7",
      "spiele": 4,
      "siege": 2,
@@ -319,17 +330,6 @@
      "niederlagen": 1,
      "einzel": "20:14",
      "punkte": 5,
-     "eigen": false
-    },
-    {
-     "platz": 5,
-     "mannschaft": "LSV6",
-     "spiele": 4,
-     "siege": 2,
-     "unentschieden": 0,
-     "niederlagen": 2,
-     "einzel": "18:19",
-     "punkte": 4,
      "eigen": false
     },
     {
@@ -357,11 +357,11 @@
     {
      "platz": 8,
      "mannschaft": "SGWF10",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 3,
-     "einzel": "21:26",
+     "niederlagen": 4,
+     "einzel": "25:32",
      "punkte": 3,
      "eigen": false
     },
