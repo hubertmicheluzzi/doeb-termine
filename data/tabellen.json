@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-06T06:47:03Z",
+ "stand": "2026-11-06T11:17:02Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -77,23 +77,23 @@
     {
      "platz": 7,
      "mannschaft": "SKH 1",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 2,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 4,
-     "einzel": "17:33",
-     "punkte": 6,
+     "einzel": "22:38",
+     "punkte": 7,
      "eigen": false
     },
     {
      "platz": 8,
      "mannschaft": "ORF 1",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 1,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 3,
-     "einzel": "19:26",
-     "punkte": 4,
+     "einzel": "24:31",
+     "punkte": 5,
      "eigen": false
     },
     {
