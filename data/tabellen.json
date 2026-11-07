@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-07T08:47:03Z",
+ "stand": "2026-11-07T09:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -393,7 +393,7 @@
    "label": "W2",
    "farbe": "w2",
    "liga": "WTTV, Gruppe VIb",
-   "stand": "2026-11-05",
+   "stand": "2026-11-07",
    "tabelle": [
     {
      "platz": 1,
@@ -441,23 +441,23 @@
     },
     {
      "platz": 5,
+     "mannschaft": "OLYM9",
+     "spiele": 4,
+     "siege": 1,
+     "unentschieden": 2,
+     "niederlagen": 1,
+     "einzel": "18:18",
+     "punkte": 4,
+     "eigen": false
+    },
+    {
+     "platz": 6,
      "mannschaft": "LSV13",
      "spiele": 4,
      "siege": 1,
      "unentschieden": 1,
      "niederlagen": 2,
      "einzel": "18:18",
-     "punkte": 3,
-     "eigen": false
-    },
-    {
-     "platz": 6,
-     "mannschaft": "OLYM9",
-     "spiele": 3,
-     "siege": 1,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "einzel": "13:13",
      "punkte": 3,
      "eigen": false
     },
@@ -475,12 +475,12 @@
     {
      "platz": 8,
      "mannschaft": "DOEB6",
-     "spiele": 3,
+     "spiele": 4,
      "siege": 0,
-     "unentschieden": 1,
+     "unentschieden": 2,
      "niederlagen": 2,
-     "einzel": "9:17",
-     "punkte": 1,
+     "einzel": "14:22",
+     "punkte": 2,
      "eigen": true
     },
     {
