@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-07T09:47:02Z",
+ "stand": "2026-11-07T10:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -658,7 +658,89 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Thom, Adi, Maxime"
+     "spieler": "Thom, Adi, Maxime",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Damir",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "–",
+       "gegner": "Ralf",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Helmut",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Thom / –",
+       "gegner": "Damir / Ralf",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Ralf",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Damir",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "–",
+       "gegner": "Helmut",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Ralf",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Helmut",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "–",
+       "gegner": "Damir",
+       "saetze": "3:1",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
