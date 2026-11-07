@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-07T09:47:03Z",
+ "stand": "2026-11-07T12:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -313,12 +313,12 @@
     {
      "platz": 4,
      "mannschaft": "SSH2",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 3,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 1,
-     "einzel": "20:13",
-     "punkte": 6,
+     "einzel": "25:18",
+     "punkte": 7,
      "eigen": false
     },
     {
@@ -335,12 +335,12 @@
     {
      "platz": 6,
      "mannschaft": "DOEB3",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 2,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 2,
-     "einzel": "14:15",
-     "punkte": 4,
+     "einzel": "19:20",
+     "punkte": 5,
      "eigen": true
     },
     {
