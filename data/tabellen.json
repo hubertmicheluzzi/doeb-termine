@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-07T01:47:03Z",
+ "stand": "2026-11-07T08:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -301,6 +301,17 @@
     },
     {
      "platz": 3,
+     "mannschaft": "NFS7",
+     "spiele": 5,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "einzel": "26:15",
+     "punkte": 7,
+     "eigen": false
+    },
+    {
+     "platz": 4,
      "mannschaft": "SSH2",
      "spiele": 4,
      "siege": 3,
@@ -311,7 +322,7 @@
      "eigen": false
     },
     {
-     "platz": 4,
+     "platz": 5,
      "mannschaft": "LSV6",
      "spiele": 5,
      "siege": 3,
@@ -319,17 +330,6 @@
      "niederlagen": 2,
      "einzel": "24:23",
      "punkte": 6,
-     "eigen": false
-    },
-    {
-     "platz": 5,
-     "mannschaft": "NFS7",
-     "spiele": 4,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "einzel": "20:14",
-     "punkte": 5,
      "eigen": false
     },
     {
@@ -346,11 +346,11 @@
     {
      "platz": 7,
      "mannschaft": "LENZ4",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 2,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "einzel": "16:19",
+     "niederlagen": 3,
+     "einzel": "17:25",
      "punkte": 4,
      "eigen": false
     },
