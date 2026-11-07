@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-07T12:17:02Z",
+ "stand": "2026-11-07T12:47:03Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -321,7 +321,89 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Richi, Max, Bary"
+     "spieler": "Richi, Max, Bary",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Robert",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Moritz",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Martin",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Max / Richi",
+       "gegner": "Moritz / Martin",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Moritz",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Robert",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Martin",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Moritz",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Martin",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Robert",
+       "saetze": "1:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,

@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-11-07T10:47:04Z",
+ "stand": "2026-11-07T12:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -854,12 +854,12 @@
   {
    "name": "Bary",
    "einzel": [
-    12,
+    15,
     10
    ],
    "saetze": [
-    48,
-    41
+    57,
+    43
    ],
    "doppel": [
     0,
@@ -867,9 +867,48 @@
    ],
    "teams": {
     "v1": 5,
-    "w1": 4
+    "w1": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "VIII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Martin",
+     "gegnerTeam": "SSH2",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Moritz",
+     "gegnerTeam": "SSH2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Robert",
+     "gegnerTeam": "SSH2",
+     "saetze": "3:0",
+     "sieg": true
+    },
     {
      "datum": "2026-10-23",
      "bewerb": "w1",
@@ -1159,148 +1198,76 @@
    ]
   },
   {
-   "name": "Georg",
-   "einzel": [
-    6,
-    0
-   ],
-   "saetze": [
-    18,
-    4
-   ],
-   "doppel": [
-    2,
-    0
-   ],
-   "teams": {
-    "v1": 2
-   },
-   "spiele": [
-    {
-     "datum": "2026-10-07",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.4",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Julien",
-     "gegnerTeam": "SKH 1",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-07",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.4",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Ole",
-     "gegnerTeam": "SKH 1",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-07",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.4",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "HM",
-     "gegner": "Timo / Ole",
-     "gegnerTeam": "SKH 1",
-     "saetze": "3:2",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-07",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.4",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Timo",
-     "gegnerTeam": "SKH 1",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Martin",
-     "gegnerTeam": "OWA 2",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Arnold",
-     "gegnerTeam": "OWA 2",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "HM",
-     "gegner": "Martin / Pedro",
-     "gegnerTeam": "OWA 2",
-     "saetze": "3:2",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Pedro",
-     "gegnerTeam": "OWA 2",
-     "saetze": "3:2",
-     "sieg": true
-    }
-   ]
-  },
-  {
    "name": "Richi",
    "einzel": [
-    6,
-    4
+    7,
+    6
    ],
    "saetze": [
-    24,
-    18
+    31,
+    25
    ],
    "doppel": [
     2,
-    3
+    4
    ],
    "teams": {
     "v1": 1,
-    "w1": 4
+    "w1": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Moritz",
+     "gegnerTeam": "SSH2",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Robert",
+     "gegnerTeam": "SSH2",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Max",
+     "gegner": "Moritz / Martin",
+     "gegnerTeam": "SSH2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Martin",
+     "gegnerTeam": "SSH2",
+     "saetze": "2:3",
+     "sieg": false
+    },
     {
      "datum": "2026-10-23",
      "bewerb": "w1",
@@ -1494,6 +1461,130 @@
      "gegner": "Gerhard",
      "gegnerTeam": "BKA 1",
      "saetze": "3:1",
+     "sieg": true
+    }
+   ]
+  },
+  {
+   "name": "Georg",
+   "einzel": [
+    6,
+    0
+   ],
+   "saetze": [
+    18,
+    4
+   ],
+   "doppel": [
+    2,
+    0
+   ],
+   "teams": {
+    "v1": 2
+   },
+   "spiele": [
+    {
+     "datum": "2026-10-07",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.4",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Julien",
+     "gegnerTeam": "SKH 1",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-07",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.4",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Ole",
+     "gegnerTeam": "SKH 1",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-07",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.4",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Timo / Ole",
+     "gegnerTeam": "SKH 1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-07",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.4",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Timo",
+     "gegnerTeam": "SKH 1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Martin",
+     "gegnerTeam": "OWA 2",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Arnold",
+     "gegnerTeam": "OWA 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Martin / Pedro",
+     "gegnerTeam": "OWA 2",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Pedro",
+     "gegnerTeam": "OWA 2",
+     "saetze": "3:2",
      "sieg": true
     }
    ]
@@ -1731,22 +1822,74 @@
   {
    "name": "Max",
    "einzel": [
-    3,
-    8
+    4,
+    10
    ],
    "saetze": [
-    18,
-    26
+    24,
+    34
    ],
    "doppel": [
     2,
-    3
+    4
    ],
    "teams": {
     "v1": 1,
-    "w1": 4
+    "w1": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Martin",
+     "gegnerTeam": "SSH2",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "IX",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Robert",
+     "gegnerTeam": "SSH2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Richi",
+     "gegner": "Moritz / Martin",
+     "gegnerTeam": "SSH2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Moritz",
+     "gegnerTeam": "SSH2",
+     "saetze": "2:3",
+     "sieg": false
+    },
     {
      "datum": "2026-10-23",
      "bewerb": "w1",
@@ -3050,17 +3193,28 @@
    "paar": "Max / Richi",
    "bilanz": [
     2,
-    3
+    4
    ],
    "saetze": [
-    9,
-    10
+    10,
+    13
    ],
    "teams": {
     "v1": 1,
-    "w1": 4
+    "w1": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-06",
+     "bewerb": "w1",
+     "team": "W1",
+     "runde": "1.5",
+     "nr": "IIIA",
+     "gegner": "Moritz / Martin",
+     "gegnerTeam": "SSH2",
+     "saetze": "1:3",
+     "sieg": false
+    },
     {
      "datum": "2026-10-23",
      "bewerb": "w1",
