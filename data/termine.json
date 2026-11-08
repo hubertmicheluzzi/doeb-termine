@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-07T18:17:02Z",
+ "stand": "2026-11-08T16:17:03Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -2504,7 +2504,7 @@
      "status": "upcoming",
      "punkteEigen": null,
      "punkteGegner": null,
-     "datum": "2026-11-18",
+     "datum": "2026-11-17",
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
