@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-08T17:47:03Z",
+ "stand": "2026-11-08T18:17:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -739,7 +739,7 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "bestaetigt": false,
+     "bestaetigt": true,
      "spieler": "Thom, Adi, Maxime",
      "einzel": [
       {
