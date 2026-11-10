@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-10T09:17:03Z",
+ "stand": "2026-11-10T12:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -87,34 +87,34 @@
     },
     {
      "platz": 8,
-     "mannschaft": "ORF 1",
-     "spiele": 6,
-     "siege": 1,
-     "unentschieden": 2,
-     "niederlagen": 3,
-     "einzel": "24:31",
-     "punkte": 5,
+     "mannschaft": "WILI 4",
+     "spiele": 7,
+     "siege": 2,
+     "unentschieden": 0,
+     "niederlagen": 5,
+     "einzel": "24:37",
+     "punkte": 6,
      "eigen": false
     },
     {
      "platz": 9,
+     "mannschaft": "ORF 1",
+     "spiele": 7,
+     "siege": 1,
+     "unentschieden": 2,
+     "niederlagen": 4,
+     "einzel": "27:37",
+     "punkte": 5,
+     "eigen": false
+    },
+    {
+     "platz": 10,
      "mannschaft": "FJB 2",
      "spiele": 6,
      "siege": 1,
      "unentschieden": 0,
      "niederlagen": 5,
      "einzel": "18:32",
-     "punkte": 3,
-     "eigen": false
-    },
-    {
-     "platz": 10,
-     "mannschaft": "WILI 4",
-     "spiele": 6,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 5,
-     "einzel": "18:34",
      "punkte": 3,
      "eigen": false
     },
