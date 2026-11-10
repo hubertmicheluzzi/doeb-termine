@@ -1,32 +1,32 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-09T23:17:03Z",
+ "stand": "2026-11-10T09:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
    "farbe": "v1",
    "liga": "VÖB, 1. Klasse B",
-   "stand": "2026-11-06",
+   "stand": "2026-11-10",
    "tabelle": [
     {
      "platz": 1,
+     "mannschaft": "BRZ 2",
+     "spiele": 7,
+     "siege": 7,
+     "unentschieden": 0,
+     "niederlagen": 0,
+     "einzel": "42:14",
+     "punkte": 21,
+     "eigen": false
+    },
+    {
+     "platz": 2,
      "mannschaft": "BTTC 1",
      "spiele": 7,
      "siege": 6,
      "unentschieden": 0,
      "niederlagen": 1,
      "einzel": "40:12",
-     "punkte": 18,
-     "eigen": false
-    },
-    {
-     "platz": 2,
-     "mannschaft": "BRZ 2",
-     "spiele": 6,
-     "siege": 6,
-     "unentschieden": 0,
-     "niederlagen": 0,
-     "einzel": "36:11",
      "punkte": 18,
      "eigen": false
     },
@@ -121,11 +121,11 @@
     {
      "platz": 11,
      "mannschaft": "LAND 1",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 1,
      "unentschieden": 0,
-     "niederlagen": 5,
-     "einzel": "15:35",
+     "niederlagen": 6,
+     "einzel": "18:41",
      "punkte": 3,
      "eigen": false
     }
