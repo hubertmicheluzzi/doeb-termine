@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-11T22:17:02Z",
+ "stand": "2026-11-11T23:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -275,17 +275,17 @@
    "label": "W1",
    "farbe": "w1",
    "liga": "WTTV, 3. Klasse B",
-   "stand": "2026-11-11",
+   "stand": "2026-11-12",
    "tabelle": [
     {
      "platz": 1,
      "mannschaft": "HAK2",
-     "spiele": 5,
-     "siege": 4,
+     "spiele": 6,
+     "siege": 5,
      "unentschieden": 1,
      "niederlagen": 0,
-     "einzel": "29:16",
-     "punkte": 9,
+     "einzel": "36:16",
+     "punkte": 11,
      "eigen": false
     },
     {
@@ -379,11 +379,11 @@
     {
      "platz": 10,
      "mannschaft": "OLYM4",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 0,
      "unentschieden": 0,
-     "niederlagen": 5,
-     "einzel": "14:30",
+     "niederlagen": 6,
+     "einzel": "14:37",
      "punkte": 0,
      "eigen": false
     }
