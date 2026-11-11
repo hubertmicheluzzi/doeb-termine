@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-10T12:17:03Z",
+ "stand": "2026-11-11T12:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -393,7 +393,7 @@
    "label": "W2",
    "farbe": "w2",
    "liga": "WTTV, Gruppe VIb",
-   "stand": "2026-11-09",
+   "stand": "2026-11-11",
    "tabelle": [
     {
      "platz": 1,
@@ -408,23 +408,23 @@
     },
     {
      "platz": 2,
+     "mannschaft": "TYR1",
+     "spiele": 5,
+     "siege": 4,
+     "unentschieden": 0,
+     "niederlagen": 1,
+     "einzel": "27:17",
+     "punkte": 8,
+     "eigen": false
+    },
+    {
+     "platz": 3,
      "mannschaft": "SGPF13",
      "spiele": 4,
      "siege": 3,
      "unentschieden": 0,
      "niederlagen": 1,
      "einzel": "22:13",
-     "punkte": 6,
-     "eigen": false
-    },
-    {
-     "platz": 3,
-     "mannschaft": "TYR1",
-     "spiele": 4,
-     "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 1,
-     "einzel": "21:16",
      "punkte": 6,
      "eigen": false
     },
@@ -464,11 +464,11 @@
     {
      "platz": 7,
      "mannschaft": "GEB2",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 1,
      "unentschieden": 1,
-     "niederlagen": 2,
-     "einzel": "13:19",
+     "niederlagen": 3,
+     "einzel": "14:25",
      "punkte": 3,
      "eigen": false
     },
