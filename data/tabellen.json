@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-11T12:17:03Z",
+ "stand": "2026-11-11T20:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -135,7 +135,7 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-11-05",
+   "stand": "2026-11-11",
    "tabelle": [
     {
      "platz": 1,
@@ -172,17 +172,28 @@
     },
     {
      "platz": 4,
-     "mannschaft": "POST 4",
+     "mannschaft": "OLY 4",
      "spiele": 7,
-     "siege": 3,
-     "unentschieden": 2,
-     "niederlagen": 2,
-     "einzel": "34:29",
-     "punkte": 11,
+     "siege": 4,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "einzel": "30:25",
+     "punkte": 12,
      "eigen": false
     },
     {
      "platz": 5,
+     "mannschaft": "POST 4",
+     "spiele": 8,
+     "siege": 3,
+     "unentschieden": 2,
+     "niederlagen": 3,
+     "einzel": "35:35",
+     "punkte": 11,
+     "eigen": false
+    },
+    {
+     "platz": 6,
      "mannschaft": "DÖB 2",
      "spiele": 7,
      "siege": 3,
@@ -191,17 +202,6 @@
      "einzel": "30:32",
      "punkte": 10,
      "eigen": true
-    },
-    {
-     "platz": 6,
-     "mannschaft": "OLY 4",
-     "spiele": 6,
-     "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 3,
-     "einzel": "24:24",
-     "punkte": 9,
-     "eigen": false
     },
     {
      "platz": 7,
