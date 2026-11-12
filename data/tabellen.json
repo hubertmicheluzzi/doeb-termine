@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-12T08:47:03Z",
+ "stand": "2026-11-12T09:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -135,7 +135,7 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-11-11",
+   "stand": "2026-11-12",
    "tabelle": [
     {
      "platz": 1,
@@ -151,22 +151,22 @@
     {
      "platz": 2,
      "mannschaft": "KÖST 1",
-     "spiele": 7,
-     "siege": 4,
+     "spiele": 8,
+     "siege": 5,
      "unentschieden": 2,
      "niederlagen": 1,
-     "einzel": "37:23",
-     "punkte": 14,
+     "einzel": "43:24",
+     "punkte": 17,
      "eigen": false
     },
     {
      "platz": 3,
      "mannschaft": "ATTW 4",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 4,
      "unentschieden": 1,
-     "niederlagen": 2,
-     "einzel": "34:29",
+     "niederlagen": 3,
+     "einzel": "35:35",
      "punkte": 13,
      "eigen": false
     },
