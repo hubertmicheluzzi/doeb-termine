@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-11-07T12:47:04Z",
+ "stand": "2026-11-12T08:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -854,22 +854,48 @@
   {
    "name": "Bary",
    "einzel": [
-    15,
-    10
+    16,
+    11
    ],
    "saetze": [
-    57,
-    43
+    60,
+    46
    ],
    "doppel": [
     0,
     0
    ],
    "teams": {
-    "v1": 5,
+    "v1": 6,
     "w1": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Wolfgang",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "3:0",
+     "sieg": true
+    },
     {
      "datum": "2026-11-06",
      "bewerb": "w1",
@@ -1200,22 +1226,48 @@
   {
    "name": "Richi",
    "einzel": [
-    7,
+    9,
     6
    ],
    "saetze": [
-    31,
-    25
+    37,
+    27
    ],
    "doppel": [
     2,
     4
    ],
    "teams": {
-    "v1": 1,
+    "v1": 2,
     "w1": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "3:1",
+     "sieg": true
+    },
     {
      "datum": "2026-11-06",
      "bewerb": "w1",
@@ -1590,6 +1642,130 @@
    ]
   },
   {
+   "name": "Erik",
+   "einzel": [
+    6,
+    0
+   ],
+   "saetze": [
+    18,
+    6
+   ],
+   "doppel": [
+    1,
+    1
+   ],
+   "teams": {
+    "v1": 2
+   },
+   "spiele": [
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Wolfgang",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Albert / Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Sasa",
+     "gegnerTeam": "WILI 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Robert",
+     "gegnerTeam": "WILI 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Jan / Robert",
+     "gegnerTeam": "WILI 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Jan",
+     "gegnerTeam": "WILI 4",
+     "saetze": "3:0",
+     "sieg": true
+    }
+   ]
+  },
+  {
    "name": "HM",
    "einzel": [
     2,
@@ -1601,14 +1777,27 @@
    ],
    "doppel": [
     4,
-    2
+    3
    ],
    "teams": {
     "cupc": 2,
     "cupsenb": 1,
-    "v1": 3
+    "v1": 4
    },
    "spiele": [
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Erik",
+     "gegner": "Albert / Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
     {
      "datum": "2026-10-22",
      "bewerb": "v1",
@@ -2352,78 +2541,6 @@
      "gegnerTeam": "NFS14",
      "saetze": "2:3",
      "sieg": false
-    }
-   ]
-  },
-  {
-   "name": "Erik",
-   "einzel": [
-    3,
-    0
-   ],
-   "saetze": [
-    9,
-    2
-   ],
-   "doppel": [
-    1,
-    0
-   ],
-   "teams": {
-    "v1": 1
-   },
-   "spiele": [
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Sasa",
-     "gegnerTeam": "WILI 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "V",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Robert",
-     "gegnerTeam": "WILI 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "HM",
-     "gegner": "Jan / Robert",
-     "gegnerTeam": "WILI 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "III",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Jan",
-     "gegnerTeam": "WILI 4",
-     "saetze": "3:0",
-     "sieg": true
     }
    ]
   },
@@ -3371,6 +3488,44 @@
    ]
   },
   {
+   "paar": "Erik / HM",
+   "bilanz": [
+    1,
+    1
+   ],
+   "saetze": [
+    5,
+    4
+   ],
+   "teams": {
+    "v1": 2
+   },
+   "spiele": [
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "IIIA",
+     "gegner": "Albert / Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "IIIA",
+     "gegner": "Jan / Robert",
+     "gegnerTeam": "WILI 4",
+     "saetze": "3:1",
+     "sieg": true
+    }
+   ]
+  },
+  {
    "paar": "Adi / Thom",
    "bilanz": [
     0,
@@ -3443,33 +3598,6 @@
      "gegnerTeam": "FSF 3",
      "saetze": "2:3",
      "sieg": false
-    }
-   ]
-  },
-  {
-   "paar": "Erik / HM",
-   "bilanz": [
-    1,
-    0
-   ],
-   "saetze": [
-    3,
-    1
-   ],
-   "teams": {
-    "v1": 1
-   },
-   "spiele": [
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "IIIA",
-     "gegner": "Jan / Robert",
-     "gegnerTeam": "WILI 4",
-     "saetze": "3:1",
-     "sieg": true
     }
    ]
   },

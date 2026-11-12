@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-10T06:17:02Z",
+ "stand": "2026-11-12T08:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1594,15 +1594,81 @@
      "runde": 8,
      "ha": "A",
      "gegner": "BTTC 1",
-     "status": "upcoming",
-     "punkteEigen": null,
-     "punkteGegner": null,
+     "status": "past",
+     "punkteEigen": 6,
+     "punkteGegner": 2,
      "datum": "2026-11-11",
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Bary, Erik, Richi, HM"
+     "spieler": "Bary, Erik, Richi, HM",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Wolfgang",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Albert",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Erik",
+       "gegner": "Albert",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Erik / HM",
+       "gegner": "Albert / Albert",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Albert",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Erik",
+       "gegner": "Wolfgang",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Albert",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Erik",
+       "gegner": "Albert",
+       "saetze": "3:1",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,
