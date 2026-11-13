@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-13T22:47:02Z",
+ "stand": "2026-11-13T23:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -417,7 +417,82 @@
      "datumGenau": true,
      "zeit": "19:00",
      "hinweis": null,
-     "bestaetigt": false
+     "bestaetigt": false,
+     "spieler": "Max, Bary, Richi",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Christian",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Pedro",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Clemens",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Max / Richi",
+       "gegner": "Christian / Pedro",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Pedro",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Christian",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Clemens",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Pedro",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Max",
+       "gegner": "Clemens",
+       "saetze": "1:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
@@ -963,7 +1038,73 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Thom, Thierry, Azi"
+     "spieler": "Thom, Thierry, Azi",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Azi",
+       "gegner": "Peter",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Michael",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "–",
+       "gegner": "Raimund",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Thom / –",
+       "gegner": "Peter / Raimund",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Peter",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Azi",
+       "gegner": "Raimund",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "–",
+       "gegner": "Michael",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Thom",
+       "gegner": "Raimund",
+       "saetze": "1:3",
+       "sieg": false
+      }
+     ]
     },
     {
      "durchgang": 1,
