@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-13T13:17:03Z",
+ "stand": "2026-11-13T13:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -2490,7 +2490,89 @@
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Joh. I., Cyril, Adi"
+     "spieler": "Joh. I., Cyril, Adi",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Gerhard",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Klaus",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Philipp",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Joh. I. / Adi",
+       "gegner": "Klaus / Philipp",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Klaus",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Gerhard",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Philipp",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "VII",
+       "art": "Einzel",
+       "spieler": "Adi",
+       "gegner": "Klaus",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VIII",
+       "art": "Einzel",
+       "spieler": "Joh. I.",
+       "gegner": "Philipp",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "IX",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Gerhard",
+       "saetze": "3:2",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,

@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-11-12T08:47:04Z",
+ "stand": "2026-11-13T13:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -31,22 +31,74 @@
   {
    "name": "Adi",
    "einzel": [
-    16,
-    9
+    18,
+    10
    ],
    "saetze": [
-    57,
-    36
+    65,
+    39
    ],
    "doppel": [
     3,
-    4
+    5
    ],
    "teams": {
-    "v2": 6,
+    "v2": 7,
     "w2": 3
    },
    "spiele": [
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Klaus",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Gerhard",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Joh. I.",
+     "gegner": "Klaus / Philipp",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Philipp",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "2:3",
+     "sieg": false
+    },
     {
      "datum": "2026-11-06",
      "bewerb": "w2",
@@ -468,23 +520,75 @@
   {
    "name": "Joh. I.",
    "einzel": [
-    13,
-    8
+    15,
+    9
    ],
    "saetze": [
-    47,
-    30
+    55,
+    36
    ],
    "doppel": [
     4,
-    3
+    4
    ],
    "teams": {
     "cupc": 1,
-    "v2": 6,
+    "v2": 7,
     "w2": 1
    },
    "spiele": [
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "VIII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Philipp",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Klaus",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Adi",
+     "gegner": "Klaus / Philipp",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Gerhard",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "3:2",
+     "sieg": true
+    },
     {
      "datum": "2026-11-05",
      "bewerb": "v2",
@@ -2545,119 +2649,14 @@
    ]
   },
   {
-   "name": "Fabi",
-   "einzel": [
-    3,
-    0
-   ],
-   "saetze": [
-    9,
-    3
-   ],
-   "doppel": [
-    0,
-    0
-   ],
-   "teams": {
-    "v2": 1
-   },
-   "spiele": [
-    {
-     "datum": "2026-09-24",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.3",
-     "nr": "VII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Friedrich",
-     "gegnerTeam": "LAND 2",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-24",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.3",
-     "nr": "IV",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Panagiotis",
-     "gegnerTeam": "LAND 2",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-24",
-     "bewerb": "v2",
-     "team": "V2",
-     "runde": "1.3",
-     "nr": "II",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Johannes",
-     "gegnerTeam": "LAND 2",
-     "saetze": "3:2",
-     "sieg": true
-    }
-   ]
-  },
-  {
-   "name": "Carsten",
-   "einzel": [
-    2,
-    0
-   ],
-   "saetze": [
-    6,
-    0
-   ],
-   "doppel": [
-    0,
-    0
-   ],
-   "teams": {
-    "cupc": 2
-   },
-   "spiele": [
-    {
-     "datum": "2026-10-14",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.2",
-     "nr": "1",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Eli",
-     "gegnerTeam": "HAK1",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.1",
-     "nr": "1",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Michael",
-     "gegnerTeam": "LSV2",
-     "saetze": "3:0",
-     "sieg": true
-    }
-   ]
-  },
-  {
    "name": "Cyril",
    "einzel": [
-    2,
-    15
+    3,
+    17
    ],
    "saetze": [
-    17,
-    47
+    20,
+    55
    ],
    "doppel": [
     0,
@@ -2665,9 +2664,48 @@
    ],
    "teams": {
     "cupsenb": 1,
-    "v2": 6
+    "v2": 7
    },
    "spiele": [
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Philipp",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "IX",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Gerhard",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Klaus",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "0:3",
+     "sieg": false
+    },
     {
      "datum": "2026-11-05",
      "bewerb": "v2",
@@ -2940,6 +2978,111 @@
      "gegnerTeam": "BKA 3",
      "saetze": "0:3",
      "sieg": false
+    }
+   ]
+  },
+  {
+   "name": "Fabi",
+   "einzel": [
+    3,
+    0
+   ],
+   "saetze": [
+    9,
+    3
+   ],
+   "doppel": [
+    0,
+    0
+   ],
+   "teams": {
+    "v2": 1
+   },
+   "spiele": [
+    {
+     "datum": "2026-09-24",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.3",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Friedrich",
+     "gegnerTeam": "LAND 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-24",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.3",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Panagiotis",
+     "gegnerTeam": "LAND 2",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-24",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.3",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Johannes",
+     "gegnerTeam": "LAND 2",
+     "saetze": "3:2",
+     "sieg": true
+    }
+   ]
+  },
+  {
+   "name": "Carsten",
+   "einzel": [
+    2,
+    0
+   ],
+   "saetze": [
+    6,
+    0
+   ],
+   "doppel": [
+    0,
+    0
+   ],
+   "teams": {
+    "cupc": 2
+   },
+   "spiele": [
+    {
+     "datum": "2026-10-14",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.2",
+     "nr": "1",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Eli",
+     "gegnerTeam": "HAK1",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.1",
+     "nr": "1",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Michael",
+     "gegnerTeam": "LSV2",
+     "saetze": "3:0",
+     "sieg": true
     }
    ]
   },
@@ -3393,16 +3536,27 @@
    "paar": "Adi / Joh. I.",
    "bilanz": [
     3,
-    1
+    2
    ],
    "saetze": [
-    10,
-    5
+    12,
+    8
    ],
    "teams": {
-    "v2": 4
+    "v2": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-12",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.8",
+     "nr": "IIIA",
+     "gegner": "Klaus / Philipp",
+     "gegnerTeam": "ATTW 5",
+     "saetze": "2:3",
+     "sieg": false
+    },
     {
      "datum": "2026-11-05",
      "bewerb": "v2",
