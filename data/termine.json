@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-12T13:17:03Z",
+ "stand": "2026-11-13T13:17:03Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -2482,9 +2482,9 @@
      "runde": 8,
      "ha": "H",
      "gegner": "ATTW 5",
-     "status": "upcoming",
-     "punkteEigen": null,
-     "punkteGegner": null,
+     "status": "past",
+     "punkteEigen": 5,
+     "punkteGegner": 5,
      "datum": "2026-11-12",
      "datumGenau": true,
      "zeit": "18:00",
