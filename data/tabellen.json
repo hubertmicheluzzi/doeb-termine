@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-13T13:17:03Z",
+ "stand": "2026-11-13T16:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -250,23 +250,23 @@
     {
      "platz": 11,
      "mannschaft": "HG I 3",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 1,
-     "unentschieden": 3,
+     "unentschieden": 4,
      "niederlagen": 3,
-     "einzel": "30:37",
-     "punkte": 6,
+     "einzel": "35:42",
+     "punkte": 7,
      "eigen": false
     },
     {
      "platz": 12,
      "mannschaft": "LAND 2",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 1,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 5,
-     "einzel": "16:34",
-     "punkte": 3,
+     "einzel": "21:39",
+     "punkte": 4,
      "eigen": false
     }
    ]
