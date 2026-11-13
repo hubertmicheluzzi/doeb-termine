@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-12T09:17:03Z",
+ "stand": "2026-11-13T07:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -135,7 +135,7 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-11-12",
+   "stand": "2026-11-13",
    "tabelle": [
     {
      "platz": 1,
@@ -194,6 +194,17 @@
     },
     {
      "platz": 6,
+     "mannschaft": "FSF 3",
+     "spiele": 8,
+     "siege": 3,
+     "unentschieden": 1,
+     "niederlagen": 4,
+     "einzel": "35:33",
+     "punkte": 10,
+     "eigen": false
+    },
+    {
+     "platz": 7,
      "mannschaft": "DÖB 2",
      "spiele": 7,
      "siege": 3,
@@ -202,17 +213,6 @@
      "einzel": "30:32",
      "punkte": 10,
      "eigen": true
-    },
-    {
-     "platz": 7,
-     "mannschaft": "KSVUW 3",
-     "spiele": 7,
-     "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 4,
-     "einzel": "26:33",
-     "punkte": 9,
-     "eigen": false
     },
     {
      "platz": 8,
@@ -227,13 +227,13 @@
     },
     {
      "platz": 9,
-     "mannschaft": "FSF 3",
-     "spiele": 7,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 4,
-     "einzel": "29:32",
-     "punkte": 7,
+     "mannschaft": "KSVUW 3",
+     "spiele": 8,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 5,
+     "einzel": "27:39",
+     "punkte": 9,
      "eigen": false
     },
     {
