@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-13T22:17:03Z",
+ "stand": "2026-11-13T22:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -290,23 +290,23 @@
     },
     {
      "platz": 2,
+     "mannschaft": "SGWF8",
+     "spiele": 7,
+     "siege": 5,
+     "unentschieden": 1,
+     "niederlagen": 1,
+     "einzel": "39:25",
+     "punkte": 11,
+     "eigen": false
+    },
+    {
+     "platz": 3,
      "mannschaft": "NFS7",
      "spiele": 6,
      "siege": 4,
      "unentschieden": 1,
      "niederlagen": 1,
      "einzel": "32:19",
-     "punkte": 9,
-     "eigen": false
-    },
-    {
-     "platz": 3,
-     "mannschaft": "SGWF8",
-     "spiele": 6,
-     "siege": 4,
-     "unentschieden": 1,
-     "niederlagen": 1,
-     "einzel": "33:21",
      "punkte": 9,
      "eigen": false
     },
@@ -357,11 +357,11 @@
     {
      "platz": 8,
      "mannschaft": "LENZ4",
-     "spiele": 5,
+     "spiele": 6,
      "siege": 2,
      "unentschieden": 0,
-     "niederlagen": 3,
-     "einzel": "17:25",
+     "niederlagen": 4,
+     "einzel": "21:31",
      "punkte": 4,
      "eigen": false
     },
@@ -393,7 +393,7 @@
    "label": "W2",
    "farbe": "w2",
    "liga": "WTTV, Gruppe VIb",
-   "stand": "2026-11-11",
+   "stand": "2026-11-13",
    "tabelle": [
     {
      "platz": 1,
@@ -475,23 +475,23 @@
     {
      "platz": 8,
      "mannschaft": "DOEB6",
-     "spiele": 4,
+     "spiele": 5,
      "siege": 0,
      "unentschieden": 2,
-     "niederlagen": 2,
-     "einzel": "14:22",
+     "niederlagen": 3,
+     "einzel": "16:28",
      "punkte": 2,
      "eigen": true
     },
     {
      "platz": 9,
      "mannschaft": "EDEN13",
-     "spiele": 5,
-     "siege": 0,
+     "spiele": 6,
+     "siege": 1,
      "unentschieden": 0,
      "niederlagen": 5,
-     "einzel": "10:30",
-     "punkte": 0,
+     "einzel": "16:32",
+     "punkte": 2,
      "eigen": false
     }
    ]
