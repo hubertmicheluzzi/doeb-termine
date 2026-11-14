@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-13T22:47:03Z",
+ "stand": "2026-11-14T13:47:04Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -135,17 +135,17 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-11-13",
+   "stand": "2026-11-14",
    "tabelle": [
     {
      "platz": 1,
      "mannschaft": "LENZ 2",
-     "spiele": 7,
-     "siege": 6,
+     "spiele": 8,
+     "siege": 7,
      "unentschieden": 1,
      "niederlagen": 0,
-     "einzel": "42:16",
-     "punkte": 19,
+     "einzel": "48:19",
+     "punkte": 22,
      "eigen": false
     },
     {
@@ -217,11 +217,11 @@
     {
      "platz": 8,
      "mannschaft": "BKA 3",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 3,
      "unentschieden": 0,
-     "niederlagen": 4,
-     "einzel": "25:32",
+     "niederlagen": 5,
+     "einzel": "28:38",
      "punkte": 9,
      "eigen": false
     },
