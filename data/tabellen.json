@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-14T16:47:03Z",
+ "stand": "2026-11-15T10:17:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -393,7 +393,7 @@
    "label": "W2",
    "farbe": "w2",
    "liga": "WTTV, Gruppe VIb",
-   "stand": "2026-11-14",
+   "stand": "2026-11-15",
    "tabelle": [
     {
      "platz": 1,
@@ -430,24 +430,24 @@
     },
     {
      "platz": 4,
-     "mannschaft": "SKFL21",
-     "spiele": 5,
+     "mannschaft": "LSV13",
+     "spiele": 6,
      "siege": 3,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 2,
-     "einzel": "23:19",
-     "punkte": 6,
+     "einzel": "30:23",
+     "punkte": 7,
      "eigen": false
     },
     {
      "platz": 5,
-     "mannschaft": "LSV13",
-     "spiele": 5,
-     "siege": 2,
-     "unentschieden": 1,
-     "niederlagen": 2,
-     "einzel": "24:19",
-     "punkte": 5,
+     "mannschaft": "SKFL21",
+     "spiele": 6,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 3,
+     "einzel": "27:25",
+     "punkte": 6,
      "eigen": false
     },
     {
