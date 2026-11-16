@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-15T23:47:03Z",
+ "stand": "2026-11-16T07:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -2630,7 +2630,7 @@
      "datumGenau": true,
      "zeit": "18:00",
      "hinweis": null,
-     "bestaetigt": false,
+     "bestaetigt": true,
      "spieler": "Joh. I., Cyril, Adi",
      "einzel": [
       {
