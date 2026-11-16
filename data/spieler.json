@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-11-13T23:47:04Z",
+ "stand": "2026-11-16T21:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -31,22 +31,74 @@
   {
    "name": "Adi",
    "einzel": [
-    18,
-    10
+    19,
+    12
    ],
    "saetze": [
-    65,
-    39
+    68,
+    47
    ],
    "doppel": [
-    3,
+    4,
     5
    ],
    "teams": {
-    "v2": 7,
+    "v2": 8,
     "w2": 3
    },
    "spiele": [
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "VIII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Stefan",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Gerhard",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Joh. I.",
+     "gegner": "Stefan / Gerhard",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Michael",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "3:2",
+     "sieg": true
+    },
     {
      "datum": "2026-11-12",
      "bewerb": "v2",
@@ -520,23 +572,75 @@
   {
    "name": "Joh. I.",
    "einzel": [
-    15,
-    9
+    16,
+    11
    ],
    "saetze": [
-    55,
-    36
+    61,
+    43
    ],
    "doppel": [
-    4,
+    5,
     4
    ],
    "teams": {
     "cupc": 1,
-    "v2": 7,
+    "v2": 8,
     "w2": 1
    },
    "spiele": [
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "VII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Michael",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Stefan",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Adi",
+     "gegner": "Stefan / Gerhard",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Gerhard",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
     {
      "datum": "2026-11-12",
      "bewerb": "v2",
@@ -2834,11 +2938,11 @@
    "name": "Cyril",
    "einzel": [
     3,
-    17
+    19
    ],
    "saetze": [
-    20,
-    55
+    21,
+    61
    ],
    "doppel": [
     0,
@@ -2846,9 +2950,35 @@
    ],
    "teams": {
     "cupsenb": 1,
-    "v2": 7
+    "v2": 8
    },
    "spiele": [
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Michael",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Stefan",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "1:3",
+     "sieg": false
+    },
     {
      "datum": "2026-11-12",
      "bewerb": "v2",
@@ -3754,17 +3884,28 @@
   {
    "paar": "Adi / Joh. I.",
    "bilanz": [
-    3,
+    4,
     2
    ],
    "saetze": [
-    12,
-    8
+    15,
+    10
    ],
    "teams": {
-    "v2": 5
+    "v2": 6
    },
    "spiele": [
+    {
+     "datum": "2026-11-16",
+     "bewerb": "v2",
+     "team": "V2",
+     "runde": "1.9",
+     "nr": "IIIA",
+     "gegner": "Stefan / Gerhard",
+     "gegnerTeam": "KÖST 1",
+     "saetze": "3:2",
+     "sieg": true
+    },
     {
      "datum": "2026-11-12",
      "bewerb": "v2",
