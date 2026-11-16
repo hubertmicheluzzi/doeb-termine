@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-16T19:47:03Z",
+ "stand": "2026-11-16T20:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -151,12 +151,12 @@
     {
      "platz": 2,
      "mannschaft": "KÖST 1",
-     "spiele": 8,
-     "siege": 5,
+     "spiele": 9,
+     "siege": 6,
      "unentschieden": 2,
      "niederlagen": 1,
-     "einzel": "43:24",
-     "punkte": 17,
+     "einzel": "49:27",
+     "punkte": 20,
      "eigen": false
     },
     {
@@ -195,11 +195,11 @@
     {
      "platz": 6,
      "mannschaft": "DÖB 2",
-     "spiele": 8,
+     "spiele": 9,
      "siege": 3,
      "unentschieden": 2,
-     "niederlagen": 3,
-     "einzel": "35:37",
+     "niederlagen": 4,
+     "einzel": "38:43",
      "punkte": 11,
      "eigen": true
     },
