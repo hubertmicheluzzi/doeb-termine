@@ -1,12 +1,12 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-16T20:47:03Z",
+ "stand": "2026-11-17T19:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
    "farbe": "v1",
    "liga": "VÖB, 1. Klasse B",
-   "stand": "2026-11-13",
+   "stand": "2026-11-17",
    "tabelle": [
     {
      "platz": 1,
@@ -33,12 +33,12 @@
     {
      "platz": 3,
      "mannschaft": "WN 1",
-     "spiele": 7,
+     "spiele": 8,
      "siege": 5,
-     "unentschieden": 0,
+     "unentschieden": 1,
      "niederlagen": 2,
-     "einzel": "34:19",
-     "punkte": 15,
+     "einzel": "39:24",
+     "punkte": 16,
      "eigen": false
     },
     {
@@ -109,23 +109,23 @@
     },
     {
      "platz": 10,
+     "mannschaft": "LAND 1",
+     "spiele": 8,
+     "siege": 1,
+     "unentschieden": 1,
+     "niederlagen": 6,
+     "einzel": "23:46",
+     "punkte": 4,
+     "eigen": false
+    },
+    {
+     "platz": 11,
      "mannschaft": "FJB 2",
      "spiele": 6,
      "siege": 1,
      "unentschieden": 0,
      "niederlagen": 5,
      "einzel": "18:32",
-     "punkte": 3,
-     "eigen": false
-    },
-    {
-     "platz": 11,
-     "mannschaft": "LAND 1",
-     "spiele": 7,
-     "siege": 1,
-     "unentschieden": 0,
-     "niederlagen": 6,
-     "einzel": "18:41",
      "punkte": 3,
      "eigen": false
     }
