@@ -1,6 +1,6 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-17T20:17:03Z",
+ "stand": "2026-11-18T20:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
@@ -135,7 +135,7 @@
    "label": "V2",
    "farbe": "v2",
    "liga": "VÖB, 4. Klasse",
-   "stand": "2026-11-17",
+   "stand": "2026-11-18",
    "tabelle": [
     {
      "platz": 1,
@@ -216,13 +216,13 @@
     },
     {
      "platz": 8,
-     "mannschaft": "BKA 3",
-     "spiele": 8,
-     "siege": 3,
-     "unentschieden": 0,
-     "niederlagen": 5,
-     "einzel": "28:38",
-     "punkte": 9,
+     "mannschaft": "HG I 3",
+     "spiele": 9,
+     "siege": 2,
+     "unentschieden": 4,
+     "niederlagen": 3,
+     "einzel": "41:43",
+     "punkte": 10,
      "eigen": false
     },
     {
@@ -238,6 +238,17 @@
     },
     {
      "platz": 10,
+     "mannschaft": "BKA 3",
+     "spiele": 9,
+     "siege": 3,
+     "unentschieden": 0,
+     "niederlagen": 6,
+     "einzel": "29:44",
+     "punkte": 9,
+     "eigen": false
+    },
+    {
+     "platz": 11,
      "mannschaft": "ATTW 5",
      "spiele": 8,
      "siege": 2,
@@ -245,17 +256,6 @@
      "niederlagen": 4,
      "einzel": "34:40",
      "punkte": 8,
-     "eigen": false
-    },
-    {
-     "platz": 11,
-     "mannschaft": "HG I 3",
-     "spiele": 8,
-     "siege": 1,
-     "unentschieden": 4,
-     "niederlagen": 3,
-     "einzel": "35:42",
-     "punkte": 7,
      "eigen": false
     },
     {
