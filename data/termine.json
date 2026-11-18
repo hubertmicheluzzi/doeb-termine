@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-18T14:17:02Z",
+ "stand": "2026-11-18T14:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -3113,7 +3113,57 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Carsten, Luke, HM"
+     "spieler": "Carsten, Luke, HM",
+     "einzel": [
+      {
+       "nr": "1",
+       "art": "Einzel",
+       "spieler": "Carsten",
+       "gegner": "Thilo",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "2",
+       "art": "Einzel",
+       "spieler": "Luke",
+       "gegner": "Hannes",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "3",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Andreas",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "4",
+       "art": "Doppel",
+       "spieler": "HM / Luke",
+       "gegner": "Thilo / Andreas",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "5",
+       "art": "Einzel",
+       "spieler": "Carsten",
+       "gegner": "Hannes",
+       "saetze": "2:3",
+       "sieg": false
+      },
+      {
+       "nr": "6",
+       "art": "Einzel",
+       "spieler": "Luke",
+       "gegner": "Thilo",
+       "saetze": "3:2",
+       "sieg": true
+      }
+     ]
     }
    ]
   },

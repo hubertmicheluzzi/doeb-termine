@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-11-16T21:47:04Z",
+ "stand": "2026-11-18T14:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -1928,6 +1928,275 @@
    ]
   },
   {
+   "name": "HM",
+   "einzel": [
+    3,
+    8
+   ],
+   "saetze": [
+    17,
+    27
+   ],
+   "doppel": [
+    5,
+    3
+   ],
+   "teams": {
+    "cupc": 3,
+    "cupsenb": 1,
+    "v1": 4
+   },
+   "spiele": [
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "4",
+     "art": "Doppel",
+     "partner": "Luke",
+     "gegner": "Thilo / Andreas",
+     "gegnerTeam": "SGPF1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "3",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Andreas",
+     "gegnerTeam": "SGPF1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-11",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.8",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Erik",
+     "gegner": "Albert / Albert",
+     "gegnerTeam": "BTTC 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Jan",
+     "gegnerTeam": "WILI 4",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Erik",
+     "gegner": "Jan / Robert",
+     "gegnerTeam": "WILI 4",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-22",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.6",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Sasa",
+     "gegnerTeam": "WILI 4",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-14",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.2",
+     "nr": "4",
+     "art": "Doppel",
+     "partner": "Joh. I.",
+     "gegner": "Karl / Eli",
+     "gegnerTeam": "HAK1",
+     "saetze": "3:1",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-14",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.2",
+     "nr": "2",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Michael",
+     "gegnerTeam": "HAK1",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-07",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.4",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Timo",
+     "gegnerTeam": "SKH 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-07",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.4",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Georg",
+     "gegner": "Timo / Ole",
+     "gegnerTeam": "SKH 1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-10-07",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.4",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Julien",
+     "gegnerTeam": "SKH 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Pedro",
+     "gegnerTeam": "OWA 2",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "IX",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Arnold",
+     "gegnerTeam": "OWA 2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Georg",
+     "gegner": "Martin / Pedro",
+     "gegnerTeam": "OWA 2",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-23",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.3",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Martin",
+     "gegnerTeam": "OWA 2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.1",
+     "nr": "4",
+     "art": "Doppel",
+     "partner": "Luke",
+     "gegner": "Marian / Michael",
+     "gegnerTeam": "LSV2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-14",
+     "bewerb": "cupsenb",
+     "team": "WCupSenB",
+     "runde": "1.1",
+     "nr": "E",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Andrea",
+     "gegnerTeam": "HAK1",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-14",
+     "bewerb": "cupsenb",
+     "team": "WCupSenB",
+     "runde": "1.1",
+     "nr": "C",
+     "art": "Doppel",
+     "partner": "Cyril",
+     "gegner": "Andrea / Andreas",
+     "gegnerTeam": "HAK1",
+     "saetze": "0:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-14",
+     "bewerb": "cupsenb",
+     "team": "WCupSenB",
+     "runde": "1.1",
+     "nr": "A",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Andreas",
+     "gegnerTeam": "HAK1",
+     "saetze": "3:2",
+     "sieg": true
+    }
+   ]
+  },
+  {
    "name": "Erik",
    "einzel": [
     6,
@@ -2355,249 +2624,6 @@
      "gegnerTeam": "NFS14",
      "saetze": "2:3",
      "sieg": false
-    }
-   ]
-  },
-  {
-   "name": "HM",
-   "einzel": [
-    2,
-    8
-   ],
-   "saetze": [
-    14,
-    26
-   ],
-   "doppel": [
-    4,
-    3
-   ],
-   "teams": {
-    "cupc": 2,
-    "cupsenb": 1,
-    "v1": 4
-   },
-   "spiele": [
-    {
-     "datum": "2026-11-11",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.8",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Erik",
-     "gegner": "Albert / Albert",
-     "gegnerTeam": "BTTC 1",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "VI",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Jan",
-     "gegnerTeam": "WILI 4",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Erik",
-     "gegner": "Jan / Robert",
-     "gegnerTeam": "WILI 4",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-22",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.6",
-     "nr": "II",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Sasa",
-     "gegnerTeam": "WILI 4",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-14",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.2",
-     "nr": "4",
-     "art": "Doppel",
-     "partner": "Joh. I.",
-     "gegner": "Karl / Eli",
-     "gegnerTeam": "HAK1",
-     "saetze": "3:1",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-14",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.2",
-     "nr": "2",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Michael",
-     "gegnerTeam": "HAK1",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-07",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.4",
-     "nr": "VI",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Timo",
-     "gegnerTeam": "SKH 1",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-07",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.4",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Georg",
-     "gegner": "Timo / Ole",
-     "gegnerTeam": "SKH 1",
-     "saetze": "3:2",
-     "sieg": true
-    },
-    {
-     "datum": "2026-10-07",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.4",
-     "nr": "II",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Julien",
-     "gegnerTeam": "SKH 1",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "VI",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Pedro",
-     "gegnerTeam": "OWA 2",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "IX",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Arnold",
-     "gegnerTeam": "OWA 2",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Georg",
-     "gegner": "Martin / Pedro",
-     "gegnerTeam": "OWA 2",
-     "saetze": "3:2",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-23",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.3",
-     "nr": "II",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Martin",
-     "gegnerTeam": "OWA 2",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.1",
-     "nr": "4",
-     "art": "Doppel",
-     "partner": "Luke",
-     "gegner": "Marian / Michael",
-     "gegnerTeam": "LSV2",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-14",
-     "bewerb": "cupsenb",
-     "team": "WCupSenB",
-     "runde": "1.1",
-     "nr": "E",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Andrea",
-     "gegnerTeam": "HAK1",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-14",
-     "bewerb": "cupsenb",
-     "team": "WCupSenB",
-     "runde": "1.1",
-     "nr": "C",
-     "art": "Doppel",
-     "partner": "Cyril",
-     "gegner": "Andrea / Andreas",
-     "gegnerTeam": "HAK1",
-     "saetze": "0:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-14",
-     "bewerb": "cupsenb",
-     "team": "WCupSenB",
-     "runde": "1.1",
-     "nr": "A",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Andreas",
-     "gegnerTeam": "HAK1",
-     "saetze": "3:2",
-     "sieg": true
     }
    ]
   },
@@ -3353,23 +3379,187 @@
    ]
   },
   {
+   "name": "Luke",
+   "einzel": [
+    2,
+    4
+   ],
+   "saetze": [
+    11,
+    14
+   ],
+   "doppel": [
+    1,
+    2
+   ],
+   "teams": {
+    "cupc": 2,
+    "v1": 1
+   },
+   "spiele": [
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "6",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Thilo",
+     "gegnerTeam": "SGPF1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "4",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Thilo / Andreas",
+     "gegnerTeam": "SGPF1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "2",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Hannes",
+     "gegnerTeam": "SGPF1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-15",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.5",
+     "nr": "VIII",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Michael",
+     "gegnerTeam": "ORF 1",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-15",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.5",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Mohsen",
+     "gegnerTeam": "ORF 1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-15",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.5",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Gidi",
+     "gegner": "Mohsen / Michael",
+     "gegnerTeam": "ORF 1",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-10-15",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.5",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Mahmoud",
+     "gegnerTeam": "ORF 1",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.1",
+     "nr": "4",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Marian / Michael",
+     "gegnerTeam": "LSV2",
+     "saetze": "1:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.1",
+     "nr": "3",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Marian",
+     "gegnerTeam": "LSV2",
+     "saetze": "0:3",
+     "sieg": false
+    }
+   ]
+  },
+  {
    "name": "Carsten",
    "einzel": [
     2,
-    0
+    2
    ],
    "saetze": [
-    6,
-    0
+    9,
+    6
    ],
    "doppel": [
     0,
     0
    ],
    "teams": {
-    "cupc": 2
+    "cupc": 3
    },
    "spiele": [
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "5",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Hannes",
+     "gegnerTeam": "SGPF1",
+     "saetze": "2:3",
+     "sieg": false
+    },
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "1",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Thilo",
+     "gegnerTeam": "SGPF1",
+     "saetze": "1:3",
+     "sieg": false
+    },
     {
      "datum": "2026-10-14",
      "bewerb": "cupc",
@@ -3465,105 +3655,6 @@
      "partner": null,
      "gegner": "Mohsen",
      "gegnerTeam": "ORF 1",
-     "saetze": "0:3",
-     "sieg": false
-    }
-   ]
-  },
-  {
-   "name": "Luke",
-   "einzel": [
-    1,
-    3
-   ],
-   "saetze": [
-    6,
-    9
-   ],
-   "doppel": [
-    0,
-    2
-   ],
-   "teams": {
-    "cupc": 1,
-    "v1": 1
-   },
-   "spiele": [
-    {
-     "datum": "2026-10-15",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.5",
-     "nr": "VIII",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Michael",
-     "gegnerTeam": "ORF 1",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-15",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.5",
-     "nr": "IV",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Mohsen",
-     "gegnerTeam": "ORF 1",
-     "saetze": "2:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-15",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.5",
-     "nr": "IIIA",
-     "art": "Doppel",
-     "partner": "Gidi",
-     "gegner": "Mohsen / Michael",
-     "gegnerTeam": "ORF 1",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-10-15",
-     "bewerb": "v1",
-     "team": "V1",
-     "runde": "1.5",
-     "nr": "I",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Mahmoud",
-     "gegnerTeam": "ORF 1",
-     "saetze": "3:0",
-     "sieg": true
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.1",
-     "nr": "4",
-     "art": "Doppel",
-     "partner": "HM",
-     "gegner": "Marian / Michael",
-     "gegnerTeam": "LSV2",
-     "saetze": "1:3",
-     "sieg": false
-    },
-    {
-     "datum": "2026-09-16",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.1",
-     "nr": "3",
-     "art": "Einzel",
-     "partner": null,
-     "gegner": "Marian",
-     "gegnerTeam": "LSV2",
      "saetze": "0:3",
      "sieg": false
     }
@@ -4040,6 +4131,44 @@
    ]
   },
   {
+   "paar": "HM / Luke",
+   "bilanz": [
+    1,
+    1
+   ],
+   "saetze": [
+    4,
+    5
+   ],
+   "teams": {
+    "cupc": 2
+   },
+   "spiele": [
+    {
+     "datum": "2026-11-18",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.3",
+     "nr": "4",
+     "gegner": "Thilo / Andreas",
+     "gegnerTeam": "SGPF1",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-09-16",
+     "bewerb": "cupc",
+     "team": "WCupC",
+     "runde": "1.1",
+     "nr": "4",
+     "gegner": "Marian / Michael",
+     "gegnerTeam": "LSV2",
+     "saetze": "1:3",
+     "sieg": false
+    }
+   ]
+  },
+  {
    "paar": "Adi / Thom",
    "bilanz": [
     0,
@@ -4245,33 +4374,6 @@
      "nr": "IIIA",
      "gegner": "Mohsen / Michael",
      "gegnerTeam": "ORF 1",
-     "saetze": "1:3",
-     "sieg": false
-    }
-   ]
-  },
-  {
-   "paar": "HM / Luke",
-   "bilanz": [
-    0,
-    1
-   ],
-   "saetze": [
-    1,
-    3
-   ],
-   "teams": {
-    "cupc": 1
-   },
-   "spiele": [
-    {
-     "datum": "2026-09-16",
-     "bewerb": "cupc",
-     "team": "WCupC",
-     "runde": "1.1",
-     "nr": "4",
-     "gegner": "Marian / Michael",
-     "gegnerTeam": "LSV2",
      "saetze": "1:3",
      "sieg": false
     }
