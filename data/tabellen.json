@@ -1,22 +1,22 @@
 {
  "format": "doeb-tabellen/1",
- "stand": "2026-11-18T20:47:03Z",
+ "stand": "2026-11-18T21:47:03Z",
  "bewerbe": {
   "v1": {
    "label": "V1",
    "farbe": "v1",
    "liga": "VÖB, 1. Klasse B",
-   "stand": "2026-11-17",
+   "stand": "2026-11-18",
    "tabelle": [
     {
      "platz": 1,
      "mannschaft": "BRZ 2",
-     "spiele": 7,
-     "siege": 7,
+     "spiele": 8,
+     "siege": 8,
      "unentschieden": 0,
      "niederlagen": 0,
-     "einzel": "42:14",
-     "punkte": 21,
+     "einzel": "48:17",
+     "punkte": 24,
      "eigen": false
     },
     {
@@ -55,11 +55,11 @@
     {
      "platz": 5,
      "mannschaft": "OWA 2",
-     "spiele": 6,
+     "spiele": 7,
      "siege": 4,
      "unentschieden": 0,
-     "niederlagen": 2,
-     "einzel": "30:26",
+     "niederlagen": 3,
+     "einzel": "33:32",
      "punkte": 12,
      "eigen": false
     },
