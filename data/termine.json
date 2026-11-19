@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-19T22:47:02Z",
+ "stand": "2026-11-19T23:17:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1816,9 +1816,9 @@
      "runde": 9,
      "ha": "H",
      "gegner": "FJB 2",
-     "status": "upcoming",
-     "punkteEigen": null,
-     "punkteGegner": null,
+     "status": "past",
+     "punkteEigen": 7,
+     "punkteGegner": 0,
      "datum": "2026-11-19",
      "datumGenau": true,
      "zeit": "18:00",
