@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-19T15:17:02Z",
+ "stand": "2026-11-19T22:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -1824,7 +1824,65 @@
      "zeit": "18:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "Bary, Georg, Richi, HM"
+     "spieler": "Bary, Georg, Richi, HM",
+     "einzel": [
+      {
+       "nr": "I",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Alfred",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "II",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Wolfgang",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "III",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Marcus",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IIIA",
+       "art": "Doppel",
+       "spieler": "Georg / HM",
+       "gegner": "Alfred / Marcus",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "IV",
+       "art": "Einzel",
+       "spieler": "Bary",
+       "gegner": "Wolfgang",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "V",
+       "art": "Einzel",
+       "spieler": "Georg",
+       "gegner": "Alfred",
+       "saetze": "3:0",
+       "sieg": true
+      },
+      {
+       "nr": "VI",
+       "art": "Einzel",
+       "spieler": "Richi",
+       "gegner": "Marcus",
+       "saetze": "3:2",
+       "sieg": true
+      }
+     ]
     },
     {
      "durchgang": 1,

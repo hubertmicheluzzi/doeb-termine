@@ -1,6 +1,6 @@
 {
  "format": "doeb-spieler/1",
- "stand": "2026-11-18T14:47:04Z",
+ "stand": "2026-11-19T22:47:04Z",
  "bewerbe": {
   "w1": {
    "label": "W1",
@@ -1062,22 +1062,48 @@
   {
    "name": "Bary",
    "einzel": [
-    18,
+    20,
     11
    ],
    "saetze": [
-    66,
-    48
+    72,
+    50
    ],
    "doppel": [
     0,
     0
    ],
    "teams": {
-    "v1": 6,
+    "v1": 7,
     "w1": 6
    },
    "spiele": [
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "IV",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Wolfgang",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "I",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Alfred",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:2",
+     "sieg": true
+    },
     {
      "datum": "2026-11-13",
      "bewerb": "w1",
@@ -1460,22 +1486,48 @@
   {
    "name": "Richi",
    "einzel": [
-    10,
+    12,
     8
    ],
    "saetze": [
-    42,
-    35
+    48,
+    39
    ],
    "doppel": [
     2,
     5
    ],
    "teams": {
-    "v1": 2,
+    "v1": 3,
     "w1": 6
    },
    "spiele": [
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "VI",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Marcus",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:2",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "II",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Wolfgang",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:2",
+     "sieg": true
+    },
     {
      "datum": "2026-11-13",
      "bewerb": "w1",
@@ -1806,21 +1858,60 @@
   {
    "name": "Georg",
    "einzel": [
-    6,
+    8,
     0
    ],
    "saetze": [
-    18,
+    24,
     4
    ],
    "doppel": [
-    2,
+    3,
     0
    ],
    "teams": {
-    "v1": 2
+    "v1": 3
    },
    "spiele": [
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "V",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Alfred",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "HM",
+     "gegner": "Alfred / Marcus",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "III",
+     "art": "Einzel",
+     "partner": null,
+     "gegner": "Marcus",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
     {
      "datum": "2026-10-07",
      "bewerb": "v1",
@@ -1938,15 +2029,28 @@
     27
    ],
    "doppel": [
-    5,
+    6,
     3
    ],
    "teams": {
     "cupc": 3,
     "cupsenb": 1,
-    "v1": 4
+    "v1": 5
    },
    "spiele": [
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "IIIA",
+     "art": "Doppel",
+     "partner": "Georg",
+     "gegner": "Alfred / Marcus",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
     {
      "datum": "2026-11-18",
      "bewerb": "cupc",
@@ -4057,17 +4161,28 @@
   {
    "paar": "Georg / HM",
    "bilanz": [
-    2,
+    3,
     0
    ],
    "saetze": [
-    6,
+    9,
     4
    ],
    "teams": {
-    "v1": 2
+    "v1": 3
    },
    "spiele": [
+    {
+     "datum": "2026-11-19",
+     "bewerb": "v1",
+     "team": "V1",
+     "runde": "1.9",
+     "nr": "IIIA",
+     "gegner": "Alfred / Marcus",
+     "gegnerTeam": "FJB 2",
+     "saetze": "3:0",
+     "sieg": true
+    },
     {
      "datum": "2026-10-07",
      "bewerb": "v1",
