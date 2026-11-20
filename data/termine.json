@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-20T13:47:02Z",
+ "stand": "2026-11-20T23:17:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -3222,6 +3222,20 @@
        "sieg": true
       }
      ]
+    },
+    {
+     "durchgang": 1,
+     "runde": 4,
+     "ha": "H",
+     "gegner": "LSV1",
+     "status": "upcoming",
+     "punkteEigen": null,
+     "punkteGegner": null,
+     "datum": "2026-12-18",
+     "datumGenau": false,
+     "zeit": null,
+     "hinweis": null,
+     "bestaetigt": false
     }
    ]
   },
