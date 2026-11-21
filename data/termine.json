@@ -1,6 +1,6 @@
 {
  "format": "doeb-termine/1",
- "stand": "2026-11-21T13:47:02Z",
+ "stand": "2026-11-21T14:47:02Z",
  "quelle": "Nextcloud (Mac Mini, gefiltert)",
  "bewerbe": {
   "w1": {
@@ -3314,7 +3314,49 @@
      "zeit": "19:00",
      "hinweis": null,
      "bestaetigt": false,
-     "spieler": "HM, Cyril"
+     "spieler": "HM, Cyril",
+     "einzel": [
+      {
+       "nr": "D",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Christian",
+       "saetze": "0:3",
+       "sieg": false
+      },
+      {
+       "nr": "E",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Christian",
+       "saetze": "3:1",
+       "sieg": true
+      },
+      {
+       "nr": "B",
+       "art": "Einzel",
+       "spieler": "HM",
+       "gegner": "Christian",
+       "saetze": "3:2",
+       "sieg": true
+      },
+      {
+       "nr": "C",
+       "art": "Doppel",
+       "spieler": "HM / Cyril",
+       "gegner": "Christian / Christian",
+       "saetze": "1:3",
+       "sieg": false
+      },
+      {
+       "nr": "A",
+       "art": "Einzel",
+       "spieler": "Cyril",
+       "gegner": "Christian",
+       "saetze": "0:3",
+       "sieg": false
+      }
+     ]
     }
    ]
   }
